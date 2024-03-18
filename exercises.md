@@ -18,5 +18,13 @@ I use them to pursue engagement, to feel interested in what I am thinking, writi
 
 These (conceptual) tools allow me to combine structure with enjoyment. Writing can be isolating, it is traditionally a solo undertaking.  Incorporating engagement with the outer world into my practice allows me to facilitate connectivity between myself and others. 
 
+## Electronic Literature Collection 
+### - Responding to one work from each volume: 1. What makes it a piece of digital literature? and 2. A personal response (whether you liked it, how it made you feel etc)
+
 ## Bio Note
 
+# Week 3
+
+Idea for final assessment: Strava poetry
+
+- I will plan out walking/cycling routes to spell out words on the Strava app, which will combine to become one large collage. I am considering leaving the (screenshotted) words in an intentional 'jumble' or even creating a sort of jigsaw puzzle out of them, although I think it might be too complicated to try and make a jigsaw. Another avenue would be to use these strava 'words' like a link to open onto larger format poems, eg. I would have multiple of these words (maybe 6 for example) acting as gateways to open up the longer poems. I might also try to write out a long form poem purely on strava, where the screenshots will fade in and out on the screen one by one.. so the viewer is presented with one word at a time. This could also be done in a scroll format. 
