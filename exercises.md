@@ -48,3 +48,12 @@ Idea for final assessment: Strava poetry
 4. How is electronic literature different from print literature?
 
 5. What are the qualities of the works we might consider as qualities of electronic literature?
+
+## Algorithm and Constraint 'pen and paper' Generative Writing Exercises
+
+To Make a Dadaist Poem: 
+
+democracy that criminal of
+assertion election using
+
+N + 7
