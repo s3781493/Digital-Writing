@@ -51,9 +51,40 @@ Idea for final assessment: Strava poetry
 
 ## Algorithm and Constraint 'pen and paper' Generative Writing Exercises
 
-To Make a Dadaist Poem: 
+1. To Make a Dadaist Poem: (unedited)
 
 democracy that criminal of
+
 assertion election using
 
-N + 7
+Trump: likely hispanic 
+
+voters this to tie
+
+I end dystopian united
+
+election don't and dictment
+
+our if fraud Trump, other for
+
+have in this you're going to Trump
+
+under who I with
+
+Trump said his great election
+
+think we of said don't
+
+resulting the if registered increasingly
+
+Georgia 2020 win
+
+lose US communities
+
+overturn American will
+
+baseless states African
+
+country is his trying tical
+
+2. N + 7
