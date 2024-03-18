@@ -28,3 +28,15 @@ These (conceptual) tools allow me to combine structure with enjoyment. Writing c
 Idea for final assessment: Strava poetry
 
 - I will plan out walking/cycling routes to spell out words on the Strava app, which will combine to become one large collage or series. The app tracks your movement on a map when you give it permission to do so. I am considering leaving the (screenshotted) words in an intentional 'jumble' or even creating a sort of jigsaw puzzle out of them, although I think it might be too complicated to try and make a jigsaw. Another avenue would be to use these strava 'words' like a link to open onto larger format poems, eg. I would have multiple of these words (maybe 6 for example) acting as gateways to open up the longer poems. I might also try to write out a long form poem purely on strava, where the screenshots will fade in and out on the screen one by one.. so the viewer is presented with one word at a time. This could also be done in a scroll format. The content of the poems will be relevant to the intersection of bodily movement/creativity/technology: how the body is making the art/writing, the body moves to make the art, the intentionality behind every movement, every right and left turn, the relentlessness of technology to 'track', the lack of room for mistakes, the lack of backspace, you can't backpedal your track away...relating to the digital footprint and its eternal-ness. Kinetic movement and energy as it exists in both the digital and physical world. Transposing physical kinesis into digital kinesis and creating kinesis between the viewer and the creative work. I could even AI-generate a list of words that relate to this concept and spell out those words. Or even, I could generate the next word of the poem whilst on a ride. As in, I could start with 'body' - whilst on the bike ride to produce the word body, I choose a word based on my surroundings or something significant that jumps out at me on the ride. 
+
+## Questions re: Defining Electronic Literature
+
+1. What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
+
+2. How are those elements meaningful?
+
+3. How are the works read differently from print literature?
+
+4. How is electronic literature different from print literature?
+
+5. What are the qualities of the works we might consider as qualities of electronic literature?
