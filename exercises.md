@@ -1,5 +1,5 @@
 1. What types of writing do you do?
-Literary non--fiction, poetry, experimental/lyrical essaying.
+Literary non-fiction, poetry, experimental/lyrical essaying.
 
 2. What tools (or techniques) do you use to write?
 I think the more experiences you have, the more external inspiration you will find. These experiences also shape your sense of self and out-ward facing lens/world view. In this way, you can utilise the natural impact of external influence to constantly evolve the way you receive and interpret ideas, and in turn how you respond to them creatively. People, conversation, relationships, observations... for this reason I am always interested in and actively choosing to place myself in situations where I will have new experiences and meet new people. I believe the comfort zone is not where development occurs, and that motivation is derived from challenge and exposure. I like to write in new places. 
