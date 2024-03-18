@@ -51,7 +51,7 @@ Idea for final assessment: Strava poetry
 
 ## Algorithm and Constraint Generative Writing Exercises
 
-### 'pen and paper'
+### 'pen and paper experiments'
 
 1. To Make a Dadaist Poem: (unedited)
 
@@ -89,7 +89,7 @@ baseless states African
 
 country is his trying tical
 
-2. N + 7
+2. N + 7 
 
 Original excerpt of poem:
 
@@ -120,3 +120,117 @@ you could call them
 post-gothic architecture
 
 climbing exposed brick wall. 
+
+### 'computational experiments'
+
+1. To Make a Dadaist Poem: (using my own writing)
+
+Original text: The first time thinking about a thing I make the words go around and around and I’m spinning in my mind like a mirror, the words playing out like end credits that roll too fast and before I can grab onto a thought it gets lost in the linguistics, the poetics, how much I put myself into something, whether I want to put myself into it. Whether your eyes glaze over as the words merge into one and the letters turn into obsolete symbols, chiming vibration like a bell does to clock, the first is the only one that matters, echo the rest out of focus.
+
+_Generated Glitch poem:_
+
+letters eyes over rest
+
+the one The your
+
+into obsolete the in
+
+merge poetics, out grab
+
+around matters, the that
+
+words a into vibration
+
+a that I to
+
+how I the words
+
+fast chiming as mirror,
+
+go I myself before
+
+put linguistics, something, roll
+
+first and can spinning
+
+turn lost one mind
+
+I credits bell a
+
+glaze out put Whether
+
+like I’m into and
+
+symbols, the thought gets
+
+myself is to want
+
+only the like and
+
+first make onto clock,
+
+too my echo the
+
+playing
+
+Original text: His legless torso hoisted, poised on the beam of the cross, only his head, and right arm remained. Elbow to wrist to the joint of his finger pointing down the lineage of the Catholic church, one truth, Jesus raises his arm to Hitler in papal decree, geometric imagery becoming a religious experience, the stained glass a rejection of secularity, primary colour stains create static, cloud your vision, glass runs thicker than usual and you can’t see through it.
+
+_Generated Glitch poem:_
+
+stains create vision, static,
+
+his imagery of his
+
+hoisted, head, the to
+
+Jesus and Hitler stained
+
+primary than cloud you
+
+glass the the arm
+
+remained. legless becoming can’t
+
+Catholic through the geometric
+
+joint religious arm only
+
+colour to secularity, the
+
+of raises glass wrist
+
+beam to torso thicker
+
+it. one pointing on
+
+runs finger usual poised
+
+truth, your a decree,
+
+right His cross,
+
+_Generated Glitch poem #2:_
+
+lineage experience, glass Catholic beam a
+
+imagery thicker the rejection in your
+
+than decree, see finger arm stained
+
+torso Hitler of Jesus geometric the
+
+of colour of cloud the down
+
+create head, His and you his
+
+legless stains usual vision, remained. arm
+
+becoming cross, wrist to secularity, poised
+
+a through to glass Elbow the
+
+only church, his it. of can’t
+
+hoisted, his truth, right one raises
+
+to
