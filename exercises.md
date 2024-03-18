@@ -1,3 +1,5 @@
+# Week 1
+
 ## Questions re: Your Writing
 
 1. What types of writing do you do?
