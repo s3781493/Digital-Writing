@@ -49,7 +49,9 @@ Idea for final assessment: Strava poetry
 
 5. What are the qualities of the works we might consider as qualities of electronic literature?
 
-## Algorithm and Constraint 'pen and paper' Generative Writing Exercises
+## Algorithm and Constraint Generative Writing Exercises
+
+### 'pen and paper'
 
 1. To Make a Dadaist Poem: (unedited)
 
@@ -88,3 +90,33 @@ baseless states African
 country is his trying tical
 
 2. N + 7
+
+Original excerpt of poem:
+
+Berlin winter.
+
+When I was in Kreuzberg, a bartender
+
+gave me his number
+
+scribbled in fine-liner pen
+
+he slipped it to me on a discarded receipt
+
+it was another betrayal
+
+in a long line of men
+
+Candles dripped wax
+
+onto the table, covering
+
+scratches from last night's close
+
+candelabra turrets
+
+you could call them
+
+post-gothic architecture
+
+climbing exposed brick wall. 
