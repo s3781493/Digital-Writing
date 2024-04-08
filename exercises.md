@@ -253,11 +253,14 @@ Strategy, winning/losing/failing, rules. The act of playing the game makes/adds 
 You can plan a linear or non-linear narrative structure. You can plan plot points/moments of contention, character profiles. Generally in a chronological sequence of events. 
 
 4. How could you plan hypertext fiction?
+
 Make a visual 'mind map' with pathways laid out.
 
 _Create a Short Hypertext Fiction Plan_
 When a child is faced with separation anxiety:
+
 (and what would it look like if the imaginings of a child came to life?)
+
 OUTCOMES: A. the car overheats and you die. B. a stranger kidnaps you. C. your mum never returns. D. your mum returns to the car and drives you home. E. cry until a stranger takes you the front desk. your first and last name is called out on the Coles intercom and a rumour spreads about you at primary school the week after. 
 
 SCENARIO: your mum needs to go grocery shopping. you don't want to go, but you're too young to be left at home alone.
