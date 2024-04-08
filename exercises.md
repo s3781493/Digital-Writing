@@ -234,3 +234,39 @@ only church, his it. of can’t
 hoisted, his truth, right one raises
 
 to
+
+# Week 4
+
+## Individual Case Study - Chemical Landscapes Digital Tales
+
+# Week 5
+
+## Writing Hypertext Fiction
+
+1. How is it different from fiction?
+Known length. How meaning and narrative is made. 
+
+2. How is it different from games?
+Strategy, winning/losing/failing, rules. The act of playing the game makes/adds meaning. Meaning is made through play. The choices presented in electronic literature examples do not give more meaning to the literature as the play does not extend beyond the act of the click. Does it add meaning/is it useful to consider a work as a game? 
+
+3. How do you plan fiction?
+You can plan a linear or non-linear narrative structure. You can plan plot points/moments of contention, character profiles. Generally in a chronological sequence of events. 
+
+4. How could you plan hypertext fiction?
+Make a visual 'mind map' with pathways laid out.
+
+_Create a Short Hypertext Fiction Plan_
+When a child is faced with separation anxiety:
+(and what would it look like if the imaginings of a child came to life?)
+OUTCOMES: A. the car overheats and you die. B. a stranger kidnaps you. C. your mum never returns. D. your mum returns to the car and drives you home. E. cry until a stranger takes you the front desk. your first and last name is called out on the Coles intercom and a rumour spreads about you at primary school the week after. 
+
+SCENARIO: your mum needs to go grocery shopping. you don't want to go, but you're too young to be left at home alone.
+
+CHOICE: A go with your mum to supermarket OR B stay in the car.
+
+A. you decide that you would rather listen to the music you just pirated onto your new ipod nano in the car than go into the supermarket. the supermarket is boring and the ipod nano is new and exciting.
+
+B. you go with your mum to the supermarket. the fluorescent lights cloud your mind and visions of cucumber soldiers send your feet into the aisle with the Lindt Easter Bunnies. you realise you've lost your mum.
+
+_Create a Short Branching Fiction Story_
+It should be nine short paragraphs in length and each paragraph should link to or be linked from at least two others.
