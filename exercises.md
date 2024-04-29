@@ -308,7 +308,7 @@ I experimented using an online calligram generator: https://www.poem-generator.o
 
 ![leaf1gen](https://github.com/s3781493/digital-writing-folio/assets/162092719/2a3d6de9-7d99-422d-8d31-0958f1d3b6f0)
 
-My words mashed up with the 'stock' words of this tool made absolutely no sense and I realised trying to push myself into the boundaries of the letters would take meaning away from my piece, and that these poems were an opportunity for me to actually write my own poetry. I decided that I would write anecdotal poetry, pertaining to memories that resurfaced or experiences had whilst I was on the bike rides, and write generatively from those ideas. 
+My words mashed up with the 'stock' words of this tool made absolutely no sense and I realised trying to push myself into the boundaries of the letters would take meaning away from my piece, and that these poems were an opportunity for me to actually write my own poetry. I decided that I would write anecdotal poetry, pertaining to memories that resurfaced or experiences had whilst I was on the bike rides, and write generatively from those ideas. I also thought it was a digital mirror to what I had been physically doing on Strava - the deliberate placement letters and words to trace out lines, which felt cohesive and fitting for the piece. 
 
 I did some research on the best programs for creating calligrams from scratch and found a good tutorial on how to do it on Adobe Illustrator.
 
@@ -360,11 +360,16 @@ This came at the perfect time as I was feeling really lost as to how I should in
 
 I was really happy with this discovery because I thought it made for the perfect screen for the user to be presented with at the beginning - visually laying out all the words I had done onto a map. As I am planning on having 9 words, the scale of the map will be larger and encompass more of Melbourne. The only drawback to using this is that I was previously intending on reusing the same areas on a map where I had found easy spots to plan routes on, which I could no longer do as the words would overlap. However I'm glad to have realised this now so I can adjust and create routes appropriately so that the map doesn't look crowded.
 
+
+### How it should look:
+
 As I was already planning on using image mapping to link the letters to their poems, I decided it would also be cohesive to image map from this personal heatmap as well. So, after clicking anywhere inside of the word LUNG, the user would be brought here:
 
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="11272356036" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
+<img width="1233" alt="Screen Shot 2024-04-28 at 4 35 02 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/ed0aaf9e-c44c-4c80-a569-af792c5f92da">
 
-This is the embedded code from Strava where you can actually click to follow my profile or view the activity on Strava.
+This is a screenshot of the embedded code from Strava, when it is viewed online you can actually click to follow my profile or view the activity on Strava. (I copied the embedded code into Twine, published it to the file and then screenshotted how it looked on Chrome after opening the index.html file). I'm not sure if you can image map over embedded code that already contains links to an external site, so if not I will use the general Strava screenshot:
+
+![53207](https://github.com/s3781493/digital-writing-folio/assets/162092719/12556744-aaf1-42fc-8714-d17f900b316c)
 
 # Week 8
 
