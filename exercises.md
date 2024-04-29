@@ -288,11 +288,11 @@ I will draw out the following words on strava: AND, THE, PUSH, CURL, BEND, WILL,
 
 ## Strava Project Updates
 
-I have decided to link (via image mapping) individual letters to poems rather than to the entire word to create some more dimension and pathways of discovery for the participant in my piece, a suggestion Ben gave me. 
+Ben suggested to link (via image mapping) individual letters to poems, rather than linking the entire word to its own individual poem. This will create more dimension and non-linearity within the piece, and more pathways of discovery for the participant. As in, rather than LIVE linking to a poem relating to the word LIVE, L, I, V, and E, will all link to individual poems. This should be consistent between words, so the L in LIVE will link to the same poem as an L in LUNG or WILL. 
 
 ### New list of x9 words:
 
-Because of this adjustment, I have decided to change my list of words around a smaller pool of letters. I have identified the 'key' (they are key because they are the words I have either already ridden out on Strava or successfully mapped a route for) words: BODY, LIVE, LUNG and WILL. From here I have made the following list of 12 letters to regenerate my list of words from: L, I, V, E, U, N, G, B, O, D, Y, W.
+Because of this adjustment, I have decided to change my list of words around a smaller pool of letters. I have identified the 'key' (they are key because they are the words I have either already ridden out on Strava or successfully mapped a route) words: BODY, LIVE, LUNG and WILL. From here I have made the following list of 12 letters to regenerate my list of words from: L, I, V, E, U, N, G, B, O, D, Y, W.
 
 My new list of words is: BODY, LIVE, LUNG, WILL, VEIN, WIND. BEND, UNDO, BLEED. 
 
@@ -318,29 +318,29 @@ I found this image of a leaf on Adobe Stock to use as a template:
 
 I wrote this prose for 'L for Leaf' thinking about my ride through yarraville whilst completing the route for LUNG. The L was completed around Cruickshank park, and it was a stunning sunny day - a rarity during the turn of seasons. I spent a lot of time hanging out in Yarraville as a teenager, and I have so many memories of sitting outside certain cafes and in general areas after school, smoking cigarettes and drinking coffee until the sun set. This period in time mostly occured during the Autumn and Winter during 2016, so I also began thinking of how it feels when the season starts to change, as it is now. 
 
-_i remember smoking cigarettes in the pop-up park as green becomes orange, digging out fingerless gloves from the bottom drawer. 
+*i remember smoking cigarettes in the pop-up park as green becomes orange, digging out fingerless gloves from the bottom drawer.*
 
-the way wind nips down the funnel neck of unrenovated train stations is how beer goes down best when the oesophagus is choked by a woollen scarf. 
+*the way wind nips down the funnel neck of unrenovated train stations is how beer goes down best when the oesophagus is choked by a woollen scarf.*
 
-watching old barbie movies with the heater on blast is what home feels like when chilblains creep under leather lace-ups. 
+*watching old barbie movies with the heater on blast is what home feels like when chilblains creep under leather lace-ups.*
 
-wear gloves inside the car to save fuel because it all adds up. 
+*wear gloves inside the car to save fuel because it all adds up.*
 
-my mum drove me down this street so many times but this is my first time really being here. 
-childhood fades as sure as the mist that hangs onto my windows.
+*my mum drove me down this street so many times but this is my first time really being here. 
+childhood fades as sure as the mist that hangs onto my windows.*
 
-kitchen tiles prick the toes. 
+*kitchen tiles prick the toes.* 
 
-mushrooms spring up on the nature strip in a circle, a ring for fairies to dance in. 
+*mushrooms spring up on the nature strip in a circle, a ring for fairies to dance in. 
 fingers interlock.
-i wish i could eat them. 
+i wish i could eat them.*
 
-laddered tights remind the bank account to brace itself.
+*laddered tights remind the bank account to brace itself.*
 
-when the train tracks freeze over in the morning it feels like the clock wound back in time.
-i look bare next to the evergreens.
+*when the train tracks freeze over in the morning it feels like the clock wound back in time.
+i look bare next to the evergreens.*
 
-breathe steam in my ear on a park bench while I wedge my fingers under my thighs._
+*breathe steam in my ear on a park bench while I wedge my fingers under my thighs.*
 
 I spent some time moving this text around to sit on the leaf in the particular way that I wanted:
 
@@ -350,12 +350,14 @@ And here it is without the template:
 
 <img width="897" alt="Screen Shot 2024-04-29 at 10 25 24 am" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/392f193c-354c-430d-9fab-6e6d8436b127">
 
+ALthough it is unfinished at this stage, I think it looks a litte empty without the leaf.
+
 ### Personal Heatmap discovery
 
 # Week 8
 
 ## Case Proposal Feedback
 
-I should focus on creating calligrams for the letters that I have already mapped out. 
+I should focus on creating calligrams for the letters that I have already mapped out. Use video footage from the rides.
 
 ### Further Calligram Brainstorming
