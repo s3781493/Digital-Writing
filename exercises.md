@@ -387,7 +387,7 @@ Focusing on the letters that are concrete: L, U, N and G (I might have another g
 ![umbrella](https://github.com/s3781493/digital-writing-folio/assets/162092719/90864af5-a4a9-4dc8-bd99-dbae9b1298d6)
 ![u turn](https://github.com/s3781493/digital-writing-folio/assets/162092719/77e82cc2-872a-44df-b623-64afa985f677)
 
-U is a tricky letter to find appropriate objects for, and I'm not sure that either really fit. I think the umbrella is going to be better 
+U is a tricky letter to find appropriate objects for, and I'm not sure that either really fit. I think the umbrella is going to be better for laying text.  
 
 **N for Nut or Necklace**
 
