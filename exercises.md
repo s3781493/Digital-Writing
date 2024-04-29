@@ -1,5 +1,3 @@
-![image](https://github.com/s3781493/digital-writing-folio/assets/162092719/27062d02-63a9-46a6-9562-6ec18e2d6d6a)![image](https://github.com/s3781493/digital-writing-folio/assets/162092719/7e611c3e-2c76-46b9-8753-8155f60cc7fb)# Week 1
-
 ## Questions re: Your Writing
 
 1. What types of writing do you do?
