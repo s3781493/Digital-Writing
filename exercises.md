@@ -292,7 +292,7 @@ Ben suggested to link (via image mapping) individual letters to poems, rather th
 
 ### New list of x9 words:
 
-Because of this adjustment, I have decided to change my list of words around a smaller pool of letters. I have identified the 'key' (they are key because they are the words I have either already ridden out on Strava or successfully mapped a route) words: BODY, LIVE, LUNG and WILL. From here I have made the following list of 12 letters to regenerate my list of words from: L, I, V, E, U, N, G, B, O, D, Y, W.
+Because of this adjustment, I have decided to change my list of words around a smaller pool of letters. I have identified the 'key' words (they are key because they are the words I have either already ridden out on Strava or successfully mapped a route for): BODY, LIVE, LUNG and WILL. From here I have made the following list of 12 letters to regenerate my list of words from: L, I, V, E, U, N, G, B, O, D, Y, W.
 
 My new list of words is: BODY, LIVE, LUNG, WILL, VEIN, WIND. BEND, UNDO, BLEED. 
 
@@ -350,9 +350,15 @@ And here it is without the template:
 
 <img width="897" alt="Screen Shot 2024-04-29 at 10 25 24 am" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/392f193c-354c-430d-9fab-6e6d8436b127">
 
-ALthough it is unfinished at this stage, I think it looks a litte empty without the leaf.
+ALthough it is unfinished at this stage, I think it looks a litte empty without the leaf. I might keep the leaf or overlay the text-only calligram on top of images.
 
-### Personal Heatmap discovery
+### Personal Heatmap Discovery
+
+This came at the perfect time as I was feeling really lost as to how I should initially present my piece, and what kind of imagery to put on the 'start' or 'home' page. I was playing around on Strava and exploring different features when I came across the 'personal heatmap' which allows you to view all of your previous activity on the same mapview. I was able to filter it from the dates that I began the project, and came up with this:
+
+<img width="1438" alt="Screen Shot 2024-04-28 at 4 22 09 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/c9d03ef3-117c-4221-bb3c-ed99e02cf61b">
+
+
 
 # Week 8
 
