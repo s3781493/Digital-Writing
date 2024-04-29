@@ -284,7 +284,7 @@ This week I successfully mapped out the word LIVE in Footscray on Sunday 14 Apri
 
 I will draw out the following words on strava: AND, THE, PUSH, CURL, BEND, WILL, BODY, LIVE, LUNG. Each word will link to a poem relating to the word via image mapping. I plan to have a list of the words on the 'home' page that the participant can choose from and then return home to explore the contents of other words, and am considering keeping a constant sidebar of the list of words for the participant to navigate between.
 
-# Week 7
+# Week 7 (Case Proposal Presentation Development)
 
 ## Strava Project Updates
 
@@ -373,8 +373,30 @@ This is a screenshot of the embedded code from Strava, when it is viewed online 
 
 # Week 8
 
-## Case Proposal Feedback
+## Case Proposal Feedback:
 
-I should focus on creating calligrams for the letters that I have already mapped out. Use video footage from the rides.
+I should focus on creating calligrams for the letters that I have already mapped out. In the event that I don't get around to riding out all 9 words, I can work with what I have to choose different words that will reduce the workload. Use video footage from the rides.
 
-### Further Calligram Brainstorming
+### Further Calligram Brainstorming (Ideas + Stock Images)
+
+Focusing on the letters that are concrete: L, U, N and G (I might have another go at riding LIVE so that it looks less like LIME)
+
+L for Leaf - see stock image in Week 7.
+
+U for Umbrella or U-turn sign
+
+![umbrella](https://github.com/s3781493/digital-writing-folio/assets/162092719/90864af5-a4a9-4dc8-bd99-dbae9b1298d6)
+![no-uturn-sign](https://github.com/s3781493/digital-writing-folio/assets/162092719/381be2bf-9c38-4768-84d0-d7aeda0cbfcd)
+
+N for Nest or Necklace
+
+![birdnest](https://github.com/s3781493/digital-writing-folio/assets/162092719/440b419b-4c57-487a-bc0d-3e55838d79e3)
+![necklace](https://github.com/s3781493/digital-writing-folio/assets/162092719/5921484e-2850-4186-a3a6-8695b19b614c)
+
+I prefer the necklace image as I think it will be more readable in its executed calligram form.
+
+G for Grass or Garbage Bin
+
+![grass](https://github.com/s3781493/digital-writing-folio/assets/162092719/d1d97729-9967-4dad-aeb4-3bb3bc3c913f)
+![bins](https://github.com/s3781493/digital-writing-folio/assets/162092719/b3b32611-1c46-42e3-8872-cac5bc992b9d)
+
