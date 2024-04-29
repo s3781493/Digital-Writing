@@ -1,4 +1,4 @@
-# Week 1
+![image](https://github.com/s3781493/digital-writing-folio/assets/162092719/27062d02-63a9-46a6-9562-6ec18e2d6d6a)![image](https://github.com/s3781493/digital-writing-folio/assets/162092719/7e611c3e-2c76-46b9-8753-8155f60cc7fb)# Week 1
 
 ## Questions re: Your Writing
 
@@ -402,3 +402,64 @@ I think the acorn is a better image to fill with text, whereas the necklace migh
 ![bins](https://github.com/s3781493/digital-writing-folio/assets/162092719/b3b32611-1c46-42e3-8872-cac5bc992b9d)
 
 I think the grass is the perfect calligram template to overlay on some video footage. I can picture the grass covering the lower third of the screen.
+
+## Starting again on Twine
+
+I realised I hadn't been pushing any of my changes to GitHub from Twine and decided to make a new repository and new story on Twine to start fresh because I hadn't gotten anywhere except for importing and then deleting images and struggling to change the font. 
+
+## Working Project Checklist
+
+1.	LIVE
+~~Drawn route.~~
+~~Ridden route.~~
+Embedded code.
+Written poem.
+
+2.	LUNG
+~~Drawn route.~~
+~~Ridden route.~~
+Embedded code.
+Written poem.
+
+3.	WILL
+~~Drawn route.~~
+Ridden route.
+Embedded code.
+Written poem.
+
+4.	BODY
+~~Drawn route.~~
+Ridden route.
+Embedded code.
+Written poem.
+
+5.	VEIN
+Drawn route.
+Ridden route.
+Embedded code.
+Written poem.
+
+6.	WIND
+Drawn route.
+Ridden route.
+Embedded code.
+Written poem.
+
+7.	BEND
+Drawn route.
+Ridden route.
+Embedded code.
+Written poem.
+
+8.	UNDO
+Drawn route.
+Ridden route.
+Embedded code.
+Written poem.
+
+9.	BLEED
+Drawn route.
+Ridden route.
+Embedded code.
+Written poem.
+
