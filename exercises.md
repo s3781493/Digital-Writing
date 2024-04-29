@@ -350,7 +350,7 @@ And here it is without the template:
 
 <img width="897" alt="Screen Shot 2024-04-29 at 10 25 24 am" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/392f193c-354c-430d-9fab-6e6d8436b127">
 
-ALthough it is unfinished at this stage, I think it looks a litte empty without the leaf. I might keep the leaf or overlay the text-only calligram on top of images, which will look more solid when there is more text running down the veins of the leaves. 
+ALthough it is unfinished at this stage, I think it looks a litte empty without the leaf. I might keep the leaf or overlay the text-only calligram on top of images, which will look more solid when there is more text running down the veins of the leaves. I am also considering taking images of the places, probably on my film camera, and overlaying the calligrams on those images. I'm not sure if it's going overboard but I could also record audio from different areas and have this play alongside the calligrams. 
 
 ### Personal Heatmap Discovery
 
@@ -359,7 +359,6 @@ This came at the perfect time as I was feeling really lost as to how I should in
 <img width="1365" alt="Screen Shot 2024-04-28 at 4 13 57 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/c5b6fe13-ccba-443c-8ea8-90d551c1a5e2">
 
 I was really happy with this discovery because I thought it made for the perfect screen for the user to be presented with at the beginning - visually laying out all the words I had done onto a map. As I am planning on having 9 words, the scale of the map will be larger and encompass more of Melbourne. The only drawback to using this is that I was previously intending on reusing the same areas on a map where I had found easy spots to plan routes on, which I could no longer do as the words would overlap. However I'm glad to have realised this now so I can adjust and create routes appropriately so that the map doesn't look crowded.
-
 
 ### How it should look:
 
@@ -373,30 +372,33 @@ This is a screenshot of the embedded code from Strava, when it is viewed online 
 
 # Week 8
 
-## Case Proposal Feedback:
+## Case Proposal Feedback from Ben:
 
-I should focus on creating calligrams for the letters that I have already mapped out. In the event that I don't get around to riding out all 9 words, I can work with what I have to choose different words that will reduce the workload. Use video footage from the rides.
+I should focus on creating calligrams for the letters that I have already mapped out. In the event that I don't get around to riding out all 9 words, I can work with what I have to choose different words or even reduce the amount of words I have planned to map out. In regards to how I can present the calligrams in a more engaging way, I could start taking video footage from the rides and overlay the calligrams on that.
 
-### Further Calligram Brainstorming (Ideas + Stock Images)
+### Further Calligram Brainstorming (Ideas, Stock Images and Prose)
 
 Focusing on the letters that are concrete: L, U, N and G (I might have another go at riding LIVE so that it looks less like LIME)
 
-L for Leaf - see stock image in Week 7.
+**L for Leaf - see chosen stock template image in Week 7.**
 
-U for Umbrella or U-turn sign
+**U for Umbrella or U-turn sign**
 
 ![umbrella](https://github.com/s3781493/digital-writing-folio/assets/162092719/90864af5-a4a9-4dc8-bd99-dbae9b1298d6)
-![no-uturn-sign](https://github.com/s3781493/digital-writing-folio/assets/162092719/381be2bf-9c38-4768-84d0-d7aeda0cbfcd)
+![u turn](https://github.com/s3781493/digital-writing-folio/assets/162092719/77e82cc2-872a-44df-b623-64afa985f677)
 
-N for Nest or Necklace
+U is a tricky letter to find appropriate objects for, and I'm not sure that either really fit. I think the umbrella is going to be better 
 
-![birdnest](https://github.com/s3781493/digital-writing-folio/assets/162092719/440b419b-4c57-487a-bc0d-3e55838d79e3)
-![necklace](https://github.com/s3781493/digital-writing-folio/assets/162092719/5921484e-2850-4186-a3a6-8695b19b614c)
+**N for Nut or Necklace**
 
-I prefer the necklace image as I think it will be more readable in its executed calligram form.
+![acornnut](https://github.com/s3781493/digital-writing-folio/assets/162092719/67aa2894-771f-4485-a7e6-3b5dc9b5ff68)
+![necklace](https://github.com/s3781493/digital-writing-folio/assets/162092719/4c44ebc4-a23e-4519-b5a2-3dc89eb87cda)
 
-G for Grass or Garbage Bin
+I think the acorn is a better image to fill with text, whereas the necklace might feel sparse on the screen.
+
+**G for Grass or Garbage Bin**
 
 ![grass](https://github.com/s3781493/digital-writing-folio/assets/162092719/d1d97729-9967-4dad-aeb4-3bb3bc3c913f)
 ![bins](https://github.com/s3781493/digital-writing-folio/assets/162092719/b3b32611-1c46-42e3-8872-cac5bc992b9d)
 
+I think the grass is the perfect calligram template to overlay on some video footage. I can picture the grass covering the lower third of the screen.
