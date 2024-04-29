@@ -273,3 +273,89 @@ B. you go with your mum to the supermarket. the fluorescent lights cloud your mi
 
 _Create a Short Branching Fiction Story_
 It should be nine short paragraphs in length and each paragraph should link to or be linked from at least two others.
+
+## Strava Project Progress
+
+This week I successfully mapped out the word LIVE in Footscray on Sunday 14 April. This was my first attempt at 'riding' out a route for a word I created, and although I am happy with it, it does look like the word LIME more so than LIVE. If I have time to revisit the route at a later stage I will do so.
+
+# Week 6
+
+## Strava Project Updates
+
+I will draw out the following words on strava: AND, THE, PUSH, CURL, BEND, WILL, BODY, LIVE, LUNG. Each word will link to a poem relating to the word via image mapping. I plan to have a list of the words on the 'home' page that the participant can choose from and then return home to explore the contents of other words, and am considering keeping a constant sidebar of the list of words for the participant to navigate between.
+
+# Week 7
+
+## Strava Project Updates
+
+I have decided to link (via image mapping) individual letters to poems rather than to the entire word to create some more dimension and pathways of discovery for the participant in my piece, a suggestion Ben gave me. 
+
+### New list of x9 words:
+
+Because of this adjustment, I have decided to change my list of words around a smaller pool of letters. I have identified the 'key' (they are key because they are the words I have either already ridden out on Strava or successfully mapped a route for) words: BODY, LIVE, LUNG and WILL. From here I have made the following list of 12 letters to regenerate my list of words from: L, I, V, E, U, N, G, B, O, D, Y, W.
+
+My new list of words is: BODY, LIVE, LUNG, WILL, VEIN, WIND. BEND, UNDO, BLEED. 
+
+### Poem Concept Brainstorm
+
+I was thinking about a poem my friend wrote a couple of years ago in a poetry subject he did at UniMelb. It was in the shape of the letter O and all the sounds of the words in the poem were of the O in an onomatopoeic way. The lines read like... oval sound is oval round, round sound is oval frown... along those lines. I'm sure that's a poor rendition of it but you get the idea. These words of a 'round' sound traced out the lines of the letter. 
+
+From here I began thinking about how I could use letters to trace out the shape of a thing, similarly to how I had myself traced out words on a map. At first I thought I might try to do the same thing as my friend's O poem, tracing out the block letter L for example, using words incorporating an L sound. I could not find a single thing online pertaining to what this kind of poem might be called, and most of the results I was getting were of concrete or calligram poems. I thought the calligram poems were quite cute and I liked their non-linearity. 
+
+I thought I might try to combine the two, and that the shapes I would choose could begin with the same letter - eg. L could link to a calligram of a leaf. I liked that idea as I thought the calligram shapes should pertain to the themes of outdoor activity, nature and the human body. 
+
+I experimented using an online calligram generator: https://www.poem-generator.org.uk/?i=2lztg9hm and input words into the generator that either had an L sound or simply started with the letter L. This was the result:
+
+![leaf1gen](https://github.com/s3781493/digital-writing-folio/assets/162092719/2a3d6de9-7d99-422d-8d31-0958f1d3b6f0)
+
+My words mashed up with the 'stock' words of this tool made absolutely no sense and I realised trying to push myself into the boundaries of the letters would take meaning away from my piece, and that these poems were an opportunity for me to actually write my own poetry. I decided that I would write poetry from an anectodal lens, pertaining to memories that resurfaced or experiences had whilst I was on the bike rides, and write generatively from those ideas. 
+
+I did some research on the best programs for creating calligrams from scratch and found a good tutorial on how to use Adobe Illustrator.
+
+I found this image of a leaf on Adobe Stock to use as a template:
+
+![leaf](https://github.com/s3781493/digital-writing-folio/assets/162092719/1ab0291e-a9d0-45ec-b12e-dacca9e4feb5)
+
+I wrote this prose for 'L for Leaf' thinking about my ride through yarraville whilst completing the route for LUNG. The L was completed around Cruickshank park, and it was a stunning sunny day - a rarity during the turn of seasons. I spent a lot of time hanging out in Yarraville as a teenager, and I have so many memories of sitting outside certain cafes and in general areas after school, smoking cigarettes and drinking coffee until the sun set. This period in time mostly occured during the Autumn and Winter during 2016, so I also began thinking of how it feels when the season starts to change, as it is now. 
+
+_i remember smoking cigarettes in the pop-up park as green becomes orange, digging out fingerless gloves from the bottom drawer. 
+
+the way wind nips down the funnel neck of unrenovated train stations is how beer goes down best when the oesophagus is choked by a woollen scarf. 
+
+watching old barbie movies with the heater on blast is what home feels like when chilblains creep under leather lace-ups. 
+
+wear gloves inside the car to save fuel because it all adds up. 
+
+my mum drove me down this street so many times but this is my first time really being here. 
+childhood fades as sure as the mist that hangs onto my windows.
+
+kitchen tiles prick the toes. 
+
+mushrooms spring up on the nature strip in a circle, a ring for fairies to dance in. 
+fingers interlock.
+i wish i could eat them. 
+
+laddered tights remind the bank account to brace itself.
+
+when the train tracks freeze over in the morning it feels like the clock wound back in time.
+i look bare next to the evergreens.
+
+breathe steam in my ear on a park bench while I wedge my fingers under my thighs._
+
+I spent some time moving this text around to sit on the leaf in the particular way that I wanted:
+
+<img width="995" alt="Screen Shot 2024-04-29 at 10 30 01 am" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/eb8392b8-c856-47d4-b66f-a74192419f08">
+
+And here it is without the template:
+
+<img width="897" alt="Screen Shot 2024-04-29 at 10 25 24 am" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/392f193c-354c-430d-9fab-6e6d8436b127">
+
+### Personal Heatmap discovery
+
+# Week 8
+
+## Case Proposal Feedback
+
+I should focus on creating calligrams for the letters that I have already mapped out. 
+
+### Further Calligram Brainstorming
