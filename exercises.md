@@ -288,19 +288,19 @@ I will draw out the following words on strava: AND, THE, PUSH, CURL, BEND, WILL,
 
 ## Strava Project Updates
 
-Ben suggested to link (via image mapping) individual letters to poems, rather than linking the entire word to its own individual poem. This will create more dimension and non-linearity within the piece, and more pathways of discovery for the participant. As in, rather than LIVE linking to a poem relating to the word LIVE, L, I, V, and E, will all link to individual poems. This should be consistent between words, so the L in LIVE will link to the same poem as an L in LUNG or WILL. 
+Ben suggested to link (via image mapping) individual letters to poems, rather than linking the entire word to its own individual poem. This will create more dimension within the piece, and more pathways of discovery for the participant. As in, rather than LIVE linking to a poem relating to the word LIVE, L, I, V, and E, will all link to individual poems. This should be consistent between words, so the L in LIVE will link to the same poem as an L in LUNG or WILL. I really liked this idea as I felt it added a layer of complexity and non-linearity that had been missing.
 
 ### New list of x9 words:
 
 Because of this adjustment, I have decided to change my list of words around a smaller pool of letters. I have identified the 'key' words (they are key because they are the words I have either already ridden out on Strava or successfully mapped a route for): BODY, LIVE, LUNG and WILL. From here I have made the following list of 12 letters to regenerate my list of words from: L, I, V, E, U, N, G, B, O, D, Y, W.
 
-My new list of words is: BODY, LIVE, LUNG, WILL, VEIN, WIND. BEND, UNDO, BLEED. 
+My new list of words: BODY, LIVE, LUNG, WILL, VEIN, WIND. BEND, UNDO, BLEED. 
 
 ### Poem Concept Brainstorm
 
-I was thinking about a poem my friend wrote a couple of years ago in a poetry subject he did at UniMelb. It was in the shape of the letter O and all the sounds of the words in the poem were of the O in an onomatopoeic way. The lines read like... oval sound is oval round, round sound is oval frown... along those lines. I'm sure that's a poor rendition of it but you get the idea. These words of a 'round' sound traced out the lines of the letter. 
+I was reminded of a poem my friend wrote a couple of years ago in a poetry subject they took at UniMelb. It was in the shape of the letter O and all the sounds of the words in the poem were of the O in an onomatopoeic way. The lines read like... oval sound is oval round, round sound is oval frown around and down.... I'm sure that's a poor rendition off the top of my head but you get the idea. These words of a 'round' sound traced out the lines of the letter. 
 
-From here I began thinking about how I could use letters to trace out the shape of a thing, similarly to how I had myself traced out words on a map. At first I thought I might try to do the same thing as my friend's O poem, tracing out the block letter L for example, using words incorporating an L sound. I could not find a single thing online pertaining to what this kind of poem might be called, and most of the results I was getting were of concrete or calligram poems. I thought the calligram poems were quite cute and I liked their non-linearity. 
+From here I began thinking about how I could use letters to trace out the shape of a thing, similar to how I had myself traced out words on a map. At first I thought I might try to do the same thing as my friend's O poem, tracing out the block letter L for example, using words that have an 'L' sound. I could not find a single thing online pertaining to what this kind of poem might be called, and most of the results I was getting were of concrete or calligram poems. I thought the calligram poems were quite cute and I liked their non-linearity. 
 
 I thought I might try to combine the two, and that the shapes I would choose could begin with the same letter - eg. L could link to a calligram of a leaf. I liked that idea as I thought the calligram shapes should pertain to the themes of outdoor activity, nature and the human body. 
 
@@ -308,9 +308,9 @@ I experimented using an online calligram generator: https://www.poem-generator.o
 
 ![leaf1gen](https://github.com/s3781493/digital-writing-folio/assets/162092719/2a3d6de9-7d99-422d-8d31-0958f1d3b6f0)
 
-My words mashed up with the 'stock' words of this tool made absolutely no sense and I realised trying to push myself into the boundaries of the letters would take meaning away from my piece, and that these poems were an opportunity for me to actually write my own poetry. I decided that I would write poetry from an anectodal lens, pertaining to memories that resurfaced or experiences had whilst I was on the bike rides, and write generatively from those ideas. 
+My words mashed up with the 'stock' words of this tool made absolutely no sense and I realised trying to push myself into the boundaries of the letters would take meaning away from my piece, and that these poems were an opportunity for me to actually write my own poetry. I decided that I would write anecdotal poetry, pertaining to memories that resurfaced or experiences had whilst I was on the bike rides, and write generatively from those ideas. 
 
-I did some research on the best programs for creating calligrams from scratch and found a good tutorial on how to use Adobe Illustrator.
+I did some research on the best programs for creating calligrams from scratch and found a good tutorial on how to do it on Adobe Illustrator.
 
 I found this image of a leaf on Adobe Stock to use as a template:
 
@@ -350,15 +350,21 @@ And here it is without the template:
 
 <img width="897" alt="Screen Shot 2024-04-29 at 10 25 24 am" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/392f193c-354c-430d-9fab-6e6d8436b127">
 
-ALthough it is unfinished at this stage, I think it looks a litte empty without the leaf. I might keep the leaf or overlay the text-only calligram on top of images.
+ALthough it is unfinished at this stage, I think it looks a litte empty without the leaf. I might keep the leaf or overlay the text-only calligram on top of images, which will look more solid when there is more text running down the veins of the leaves. 
 
 ### Personal Heatmap Discovery
 
 This came at the perfect time as I was feeling really lost as to how I should initially present my piece, and what kind of imagery to put on the 'start' or 'home' page. I was playing around on Strava and exploring different features when I came across the 'personal heatmap' which allows you to view all of your previous activity on the same mapview. I was able to filter it from the dates that I began the project, and came up with this:
 
-<img width="1438" alt="Screen Shot 2024-04-28 at 4 22 09 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/c9d03ef3-117c-4221-bb3c-ed99e02cf61b">
+<img width="1365" alt="Screen Shot 2024-04-28 at 4 13 57 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/c5b6fe13-ccba-443c-8ea8-90d551c1a5e2">
 
+I was really happy with this discovery because I thought it made for the perfect screen for the user to be presented with at the beginning - visually laying out all the words I had done onto a map. As I am planning on having 9 words, the scale of the map will be larger and encompass more of Melbourne. The only drawback to using this is that I was previously intending on reusing the same areas on a map where I had found easy spots to plan routes on, which I could no longer do as the words would overlap. However I'm glad to have realised this now so I can adjust and create routes appropriately so that the map doesn't look crowded.
 
+As I was already planning on using image mapping to link the letters to their poems, I decided it would also be cohesive to image map from this personal heatmap as well. So, after clicking anywhere inside of the word LUNG, the user would be brought here:
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="11272356036" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
+
+This is the embedded code from Strava where you can actually click to follow my profile or view the activity on Strava.
 
 # Week 8
 
