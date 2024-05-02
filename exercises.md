@@ -352,11 +352,11 @@ ALthough it is unfinished at this stage, I think it looks a litte empty without 
 
 ### Personal Heatmap Discovery
 
-This came at the perfect time as I was feeling really lost as to how I should initially present my piece, and what kind of imagery to put on the 'start' or 'home' page. I was playing around on Strava and exploring different features when I came across the 'personal heatmap' which allows you to view all of your previous activity on the same mapview. I was able to filter it from the dates that I began the project, and came up with this:
+This came at the perfect time as I was feeling really lost as to how I should present a title page, and what kind of imagery to put on the 'start' or 'home' page. I was playing around on Strava and exploring different features when I came across the 'personal heatmap' which allows you to view all of your previous activity on the same mapview. I was able to filter it from the dates that I began the project, and came up with this:
 
 <img width="1365" alt="Screen Shot 2024-04-28 at 4 13 57 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/c5b6fe13-ccba-443c-8ea8-90d551c1a5e2">
 
-I was really happy with this discovery because I thought it made for the perfect screen for the user to be presented with at the beginning - visually laying out all the words I had done onto a map. As I am planning on having 9 words, the scale of the map will be larger and encompass more of Melbourne. The only drawback to using this is that I was previously intending on reusing the same areas on a map where I had found easy spots to plan routes on, which I could no longer do as the words would overlap. However I'm glad to have realised this now so I can adjust and create routes appropriately so that the map doesn't look crowded.
+I was really happy with this discovery. I thought it made the perfect title page - visually laying out all the words I had done onto a map. As I am planning on having 9 words, the scale of the map will be larger and encompass more of Melbourne. The only drawback to using this is that I was previously intending on reusing the same areas on a map where I had found easy spots to plan routes on, which I could no longer do as the words would overlap. However I'm glad to have realised this now so I can adjust and create routes appropriately so that the map doesn't look crowded.
 
 ### How it should look:
 
@@ -372,7 +372,7 @@ This is a screenshot of the embedded code from Strava, when it is viewed online 
 
 ## Case Proposal Feedback from Ben:
 
-I should focus on creating calligrams for the letters that I have already mapped out. In the event that I don't get around to riding out all 9 words, I can work with what I have to choose different words or even reduce the amount of words I have planned to map out. In regards to how I can present the calligrams in a more engaging way, I could start taking video footage from the rides and overlay the calligrams on that.
+I should focus on creating calligrams for the letters that I have already mapped out. In the event that I don't get around to riding out all 9 words, I can work with what I have to choose different words or even reduce the amount of words I have planned to map out. In this way, I can work on having a small but complete project, and then build upon that. In regards to how I can present the calligrams in a more engaging way, I could start taking video footage from the rides and overlay the calligrams on that.
 
 ### Further Calligram Brainstorming (Ideas, Stock Images and Prose)
 
