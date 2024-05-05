@@ -376,7 +376,7 @@ This is a screenshot of the embedded code from Strava, when it is viewed online 
 
 I should focus on creating calligrams for the letters that I have already mapped out. In the event that I don't get around to riding out all 9 words, I can work with what I have to choose different words or even reduce the amount of words I have planned to map out. In this way, I can work on having a small but complete project, and then build upon that. In regards to how I can present the calligrams in a more engaging way, I could start taking video footage from the rides and overlay the calligrams on that.
 
-### Further Calligram Brainstorming (Ideas, Stock Images and Prose)
+### Calligram Brainstorming (Ideas, Stock Images and Prose)
 
 Focusing on the letters that are concrete: L, U, N and G (I might have another go at riding LIVE so that it looks less like LIME)
 
@@ -402,6 +402,52 @@ I think the acorn is a better image to fill with text, whereas the necklace migh
 ![bins](https://github.com/s3781493/digital-writing-folio/assets/162092719/b3b32611-1c46-42e3-8872-cac5bc992b9d)
 
 I think the grass is the perfect calligram template to overlay on some video footage. I can picture the grass covering the lower third of the screen.
+
+## Starting again on Twine
+
+I realised I hadn't been pushing any of my changes to GitHub from Twine and decided to make a new repository and new story on Twine to start fresh because I hadn't gotten anywhere except for importing and then deleting images and struggling to change the font. 
+
+## Working Project Checklist
+
+1.	LIVE:
+~~Drawn route.~~
+~~Ridden route.~~
+
+2.	LUNG:
+~~Drawn route.~~
+~~Ridden route.~~
+
+3.	WILL:
+~~Drawn route.~~
+Ridden route.
+
+4.	BODY:
+~~Drawn route.~~
+Ridden route.
+
+5.	VEIN:
+Drawn route.
+Ridden route.
+
+6.	WIND:
+Drawn route.
+Ridden route.
+
+7.	BEND:
+Drawn route.
+Ridden route.
+
+8.	UNDO:
+Drawn route.
+Ridden route.
+
+9.	BLEED:
+~~Drawn route.~~
+Ridden route.
+
+## Strava Project Updates and Further Calligram Brainstorming 
+
+Today (Sunday 5th May) I am riding out the word BODY.
 
 **B for Bicycle or Butterfly**
 
@@ -431,49 +477,41 @@ I really like the idea of the dandelion seeds blowing away and those seeds conta
 
 Y is a really tricky letter and I couldn't come up with much for it that was relevant. I guess yoga is a better fit thematically, so I'll go with that, although I'm not a big fan of either.
 
-Overall, the challenges in selecting images for calligrams are making sure the outline of a shape is strong enough for a viewer to identify what it actually is, and that the lines of a shape aren't too intricate or detailed otherwise the font will be too small to read. 
+The challenges in selecting images for calligrams are making sure the outline of a shape is strong enough for a viewer to identify what it actually is, but also that the lines aren't too intricate or detailed - otherwise the font will be too small to read. 
 
-## Starting again on Twine
+I have decided to adjust my list of words slightly to be less letters, as making 12 calligrams is a massive commitment, which I realise as I look at all these shapes and am thinking about how to make the content in each distinct from the others. I also want to reuse the area that I did 'LIME' in for another word. The area of the accidental 'M' is actually great for an N, so I want to use it for BEND and revise my list of words to remove LIVE, VEIN and WILL. This will also remove V, I and W from my pool of words. I could have left V as it's only one extra letter but I am having a really hard time finding good spots to draw it out on the map, so I'm letting it go. I think this will make the project more achievable by reducing the amount of calligrams from 12 to 9. I can always create more words out of the reduced pool if I have time.
 
-I realised I hadn't been pushing any of my changes to GitHub from Twine and decided to make a new repository and new story on Twine to start fresh because I hadn't gotten anywhere except for importing and then deleting images and struggling to change the font. 
+### Revised List of Letters
 
-## Working Project Checklist
+L, U, N, G, B, O, D, Y, E
 
-1.	LIVE
+**E for Electricity Pole or Eucalyptus**
+
+![electricpoles](https://github.com/s3781493/digital-writing-folio/assets/162092719/78a6669e-346d-4bcc-9840-3eebc126ff80)
+![eucalyptus](https://github.com/s3781493/digital-writing-folio/assets/162092719/851229cb-1171-4671-a5d8-ccb9682bd7a7)
+
+The final letter I haven't chosen a calligram for. Eucalyptus is too similar as I already have Leaf for L. The electrical wires are person to run prose along. 
+
+### Revised Working Project Checklist
+
+1.	LUNG:
 ~~Drawn route.~~
 ~~Ridden route.~~
 
-2.	LUNG
-~~Drawn route.~~
-~~Ridden route.~~
-
-3.	WILL
+2.	BODY:
 ~~Drawn route.~~
 Ridden route.
 
-4.	BODY
+3.	BEND:
+Drawn route.
+Ridden route.
+
+4.	UNDO:
+Drawn route.
+Ridden route.
+
+5.	BLEED:
 ~~Drawn route.~~
 Ridden route.
 
-5.	VEIN
-Drawn route.
-Ridden route.
-
-6.	WIND
-Drawn route.
-Ridden route.
-
-7.	BEND
-Drawn route.
-Ridden route.
-
-8.	UNDO
-Drawn route.
-Ridden route.
-
-9.	BLEED
-~~Drawn route.~~
-Ridden route.
-
-
-
+MORE WORDS: BONE, YOUNG, BLUE, GLUE, GONE, DUEL, LOUD, LONE
