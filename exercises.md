@@ -401,6 +401,31 @@ I think the acorn is a better image to fill with text, whereas the necklace migh
 
 I think the grass is the perfect calligram template to overlay on some video footage. I can picture the grass covering the lower third of the screen.
 
+**B for Bicycle or Butterfly**
+
+![bicycle](https://github.com/s3781493/digital-writing-folio/assets/162092719/854423ec-d922-4743-8cfe-3cc115902a43)
+![butterfly](https://github.com/s3781493/digital-writing-folio/assets/162092719/9f59f7c9-542b-4e38-a272-06510a2da4c0)
+
+Although I actually prefer the butterfly, I will definitely trace the bicycle in the spirit of my concept.
+
+**O for Orange or Orchid**
+
+![orange](https://github.com/s3781493/digital-writing-folio/assets/162092719/cfe98f74-4d18-44e6-8576-cb62d8ce58b0)
+![orchid](https://github.com/s3781493/digital-writing-folio/assets/162092719/d14b8bec-82ea-4581-8acb-f1e519190647)
+
+Whilst the orchids are pretty, I think it's too obscure of a shape and would be hard to identify in a calligram. I think it would be cute to do a little series of oranges across the screen (like the photo). A single orange won't hold enough lines to contain a small poem.
+
+**D for Dragonfly or Dandelion**
+
+![dragonfly](https://github.com/s3781493/digital-writing-folio/assets/162092719/44f9e31b-748b-46a0-ae57-ef774e027571)
+![dandelion](https://github.com/s3781493/digital-writing-folio/assets/162092719/472939dc-6175-4540-8e38-b496c5a40f9f)
+
+I really like the idea of the dandelion seeds blowing away and those seeds containing small and sucinct phrases, however the dandelion contains too many fine lines to create a calligram and still have the font large enough to be readable. It's
+
+**Y for
+
+Overall, the challenges in selecting images for calligrams are making sure the outline of a shape is strong enough for a viewer to identify what it actually is, and that the lines of a shape aren't too intricate or detailed otherwise the font will be too small to read. 
+
 ## Starting again on Twine
 
 I realised I hadn't been pushing any of my changes to GitHub from Twine and decided to make a new repository and new story on Twine to start fresh because I hadn't gotten anywhere except for importing and then deleting images and struggling to change the font. 
@@ -410,54 +435,38 @@ I realised I hadn't been pushing any of my changes to GitHub from Twine and deci
 1.	LIVE
 ~~Drawn route.~~
 ~~Ridden route.~~
-Embedded code.
-Written poem.
 
 2.	LUNG
 ~~Drawn route.~~
 ~~Ridden route.~~
-Embedded code.
-Written poem.
 
 3.	WILL
 ~~Drawn route.~~
 Ridden route.
-Embedded code.
-Written poem.
 
 4.	BODY
 ~~Drawn route.~~
 Ridden route.
-Embedded code.
-Written poem.
 
 5.	VEIN
 Drawn route.
 Ridden route.
-Embedded code.
-Written poem.
 
 6.	WIND
 Drawn route.
 Ridden route.
-Embedded code.
-Written poem.
 
 7.	BEND
 Drawn route.
 Ridden route.
-Embedded code.
-Written poem.
 
 8.	UNDO
 Drawn route.
 Ridden route.
-Embedded code.
-Written poem.
 
 9.	BLEED
-Drawn route.
+~~Drawn route.~~
 Ridden route.
-Embedded code.
-Written poem.
+
+
 
