@@ -424,7 +424,12 @@ Whilst the orchids are pretty, I think it's too obscure of a shape and would be 
 
 I really like the idea of the dandelion seeds blowing away and those seeds containing small and sucinct phrases, however the dandelion contains too many fine lines to create a calligram and still have the font large enough to be readable. It's
 
-**Y for
+**Y for Yarn or Yoga**
+
+![yarn](https://github.com/s3781493/digital-writing-folio/assets/162092719/751161c3-d9f3-482f-93fd-b3dccdf84a2a)
+![yoga](https://github.com/s3781493/digital-writing-folio/assets/162092719/36c7551f-3c70-47dc-b450-a909835176ed)
+
+Y is a really tricky letter and I couldn't come up with much for it that was relevant. I guess yoga is a better fit thematically, so I'll go with that, although I'm not a big fan of either.
 
 Overall, the challenges in selecting images for calligrams are making sure the outline of a shape is strong enough for a viewer to identify what it actually is, and that the lines of a shape aren't too intricate or detailed otherwise the font will be too small to read. 
 
