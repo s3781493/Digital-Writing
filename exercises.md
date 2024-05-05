@@ -492,7 +492,7 @@ L, U, N, G, B, O, D, Y, E
 
 Eucalyptus is too similar as I already have Leaf for L. The electrical wires are perfect to run prose along. 
 
-### Revised Working Project Checklist
+## Revised Working Project Checklist
 
 1.	**LUNG:**
 ~~Drawn route.~~
@@ -514,7 +514,7 @@ Ridden route.
 ~~Drawn route.~~
 Ridden route.
 
-MORE WORDS: BONE, YOUNG, BLUE, GLUE, GONE, DUEL, LOUD, LONE
+BRAINSTORM OF MORE POTENTIAL WORDS: BONE, YOUNG, BLUE, GLUE, GONE, DUEL, LOUD, LONE
 
 1. **L:**
 ~~Written prose.~~
@@ -552,7 +552,7 @@ Arranged calligram.
 Written prose.
 Arranged calligram.
 
-## Letter Prose Poetry
+## Calligram Prose Poetry
 
 ### L (thinking about teenagehood during winter in Yarraville)
 
@@ -592,16 +592,16 @@ wear fingerless gloves next time.
 
 ### U:
 
-### N
+### N:
 
-### G
+### G:
 
-### B
+### B:
 
-### O
+### O:
 
-### D
+### D:
 
-### Y
+### Y:
 
-### E
+### E:
