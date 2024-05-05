@@ -490,7 +490,7 @@ L, U, N, G, B, O, D, Y, E
 ![electricpoles](https://github.com/s3781493/digital-writing-folio/assets/162092719/78a6669e-346d-4bcc-9840-3eebc126ff80)
 ![eucalyptus](https://github.com/s3781493/digital-writing-folio/assets/162092719/851229cb-1171-4671-a5d8-ccb9682bd7a7)
 
-Eucalyptus is too similar as I already have Leaf for L. The electrical wires are person to run prose along. 
+Eucalyptus is too similar as I already have Leaf for L. The electrical wires are perfect to run prose along. 
 
 ### Revised Working Project Checklist
 
