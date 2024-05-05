@@ -490,7 +490,7 @@ L, U, N, G, B, O, D, Y, E
 ![electricpoles](https://github.com/s3781493/digital-writing-folio/assets/162092719/78a6669e-346d-4bcc-9840-3eebc126ff80)
 ![eucalyptus](https://github.com/s3781493/digital-writing-folio/assets/162092719/851229cb-1171-4671-a5d8-ccb9682bd7a7)
 
-The final letter I haven't chosen a calligram for. Eucalyptus is too similar as I already have Leaf for L. The electrical wires are person to run prose along. 
+Eucalyptus is too similar as I already have Leaf for L. The electrical wires are person to run prose along. 
 
 ### Revised Working Project Checklist
 
@@ -515,3 +515,93 @@ Ridden route.
 Ridden route.
 
 MORE WORDS: BONE, YOUNG, BLUE, GLUE, GONE, DUEL, LOUD, LONE
+
+1. L
+~~Written prose.~~
+Arranged calligram.
+
+2. U
+Written prose.
+Arranged calligram.
+
+3. N
+Written prose.
+Arranged calligram.
+
+4. G
+Written prose.
+Arranged calligram.
+
+5. B
+Written prose.
+Arranged calligram.
+
+6. O
+Written prose.
+Arranged calligram.
+
+7. D
+Written prose.
+Arranged calligram.
+
+8. Y
+Written prose.
+Arranged calligram.
+
+9. E
+Written prose.
+Arranged calligram.
+
+## Letter Prose Poetry
+
+### L (thinking about teenagehood during winter in Yarraville)
+
+i remember smoking cigarettes in the pop-up park as green becomes orange, digging out fingerless gloves from the bottom drawer. 
+
+the way wind nips down the funnel neck of unrenovated train stations is how beer goes down best when the oesophagus is choked by a woollen scarf. 
+
+watching old barbie movies with the heater on blast is what home feels like when chilblains creep under leather lace-ups. 
+
+wear gloves inside the car to save fuel because it all adds up. 
+
+my mum drove me down this street so many times but this is my first time really being here. 
+
+childhood fades as sure as the mist that hangs onto my windows.
+
+kitchen tiles prick the toes. 
+
+mushrooms spring up on the nature strip in a circle, a ring for fairies to dance in. 
+
+fingers interlock.
+
+i wish i could eat them. 
+
+laddered tights remind the bank account to brace itself.
+
+when the train tracks freeze over in the morning it feels like the clock wound back in time.
+
+i look bare next to the evergreens.
+
+breathe steam in my ear on a park bench while I wedge my fingers under my thighs.
+
+goosebumps calling out your name.
+
+hold onto yellow straps until dry skin splits into a fortune, swaying back and forth like a eucalyptus sprig, council strapped her up real good.
+
+wear fingerless gloves next time.
+
+### U
+
+### N
+
+### G
+
+### B
+
+### O
+
+### D
+
+### Y
+
+### E
