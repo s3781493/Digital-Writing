@@ -494,61 +494,61 @@ Eucalyptus is too similar as I already have Leaf for L. The electrical wires are
 
 ### Revised Working Project Checklist
 
-1.	LUNG:
+1.	**LUNG:**
 ~~Drawn route.~~
 ~~Ridden route.~~
 
-2.	BODY:
+2.	**BODY:**
 ~~Drawn route.~~
 Ridden route.
 
-3.	BEND:
+3.	**BEND:**
 Drawn route.
 Ridden route.
 
-4.	UNDO:
+4.	**UNDO:**
 Drawn route.
 Ridden route.
 
-5.	BLEED:
+5.	**BLEED:**
 ~~Drawn route.~~
 Ridden route.
 
 MORE WORDS: BONE, YOUNG, BLUE, GLUE, GONE, DUEL, LOUD, LONE
 
-1. L
+1. **L:**
 ~~Written prose.~~
 Arranged calligram.
 
-2. U
+2. **U:**
 Written prose.
 Arranged calligram.
 
-3. N
+3. **N:**
 Written prose.
 Arranged calligram.
 
-4. G
+4. **G:**
 Written prose.
 Arranged calligram.
 
-5. B
+5. **B:**
 Written prose.
 Arranged calligram.
 
-6. O
+6. **O:**
 Written prose.
 Arranged calligram.
 
-7. D
+7. **D:**
 Written prose.
 Arranged calligram.
 
-8. Y
+8. **Y:**
 Written prose.
 Arranged calligram.
 
-9. E
+9. **E:**
 Written prose.
 Arranged calligram.
 
@@ -590,7 +590,7 @@ hold onto yellow straps until dry skin splits into a fortune, swaying back and f
 
 wear fingerless gloves next time.
 
-### U
+### U:
 
 ### N
 
