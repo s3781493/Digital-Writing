@@ -631,9 +631,7 @@ As my title page will only be completed once I have ridden all the words that I 
 
 <img width="1440" alt="Screen Shot 2024-05-06 at 2 42 34 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/341a10c8-7ad3-4300-990b-57627644b1dc">
 
-When editing the code from the image maps website, where it says <img src="maps.png" usemap="#image-map"> edit to include ./images/
-
-So, edited, the code reads as <img src="./images/maps.png" usemap="#image-map"> - that is how the image becomes linked to twine WITH the image map code.
+Personal note: when editing the code from the image maps website, include ./images/ before the name of the image.
 
 Success! Although my image is currently blown up, the title page looks like this:
 
@@ -643,7 +641,23 @@ And then you can click within the words, and be brought to the next image (which
 
 <img width="1440" alt="Screen Shot 2024-05-06 at 4 06 29 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/86514520-297c-46a8-bce7-6f1e7d50bd3d">
 
+<img width="1440" alt="Screen Shot 2024-05-06 at 4 13 55 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/625f53bf-8cb3-439e-aec1-f1cd7739df9f">
 
+<img width="1440" alt="Screen Shot 2024-05-06 at 4 24 14 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/0c45698f-149f-403c-955d-ec0665a5d078">
+
+Code update in Twine:
+
+<img width="1351" alt="Screen Shot 2024-05-06 at 4 25 10 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/207cefc2-581b-40db-adf2-7887dd4fd932">
+
+<img width="1350" alt="Screen Shot 2024-05-06 at 4 26 45 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/648c2a0d-7e3e-42a5-a449-eaf8956604a8">
+
+And success again! You can click within the letter L of LUNG to be brought here:
+
+<img width="1440" alt="Screen Shot 2024-05-06 at 4 26 18 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/151ef202-23fb-469e-8382-979c233e2e23">
+
+## Image Scaling
+
+After adding the content of the image map resizer to Javascript, I was then able to update the stylesheet with the image 
 
 ## Twine Pathway Progress
 
