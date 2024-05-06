@@ -609,3 +609,13 @@ when a hot cup of tea is the only source of comfort wrap elbows around knees
 
 # Week 9
 
+First successful attempt at scaling my title page image:
+
+<img width="1440" alt="Screen Shot 2024-05-06 at 12 54 19 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/9f473771-bf63-4a9a-ae22-7c4bae2240a3">
+
+I used this CSS code in my story stylesheet:
+
+img {  /* this selects all image (img) elements */
+  width: 100%;
+}
+
