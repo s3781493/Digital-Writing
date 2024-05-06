@@ -631,4 +631,26 @@ As my title page will only be completed once I have ridden all the words that I 
 
 <img width="1440" alt="Screen Shot 2024-05-06 at 2 42 34 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/341a10c8-7ad3-4300-990b-57627644b1dc">
 
+When editing the code from the image maps website, where it says <img src="maps.png" usemap="#image-map"> edit to include ./images/
+
+So, edited, the code reads as <img src="./images/maps.png" usemap="#image-map"> - that is how the image becomes linked to twine WITH the image map code.
+
+Success! Although my image is currently blown up, the title page looks like this:
+
+<img width="1440" alt="Screen Shot 2024-05-06 at 4 07 56 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/3d6adaa6-6e58-4f07-b7a1-bdb378795066">
+
+And then you can click within the words, and be brought to the next image (which I will now attempt to image map to link to the letter L): 
+
+<img width="1440" alt="Screen Shot 2024-05-06 at 4 06 29 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/86514520-297c-46a8-bce7-6f1e7d50bd3d">
+
+
+
+## Twine Pathway Progress
+
+The image mapping does not create those visual arrow pathways between passages, and although there is a way to create these just for you to see I don't feel it is necessary as my pathways are relatively simple.
+
+<img width="1355" alt="Screen Shot 2024-05-06 at 4 00 31 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/537a9895-4f10-49f1-88dd-9dc52c11c5f1">
+
+Here I have created passages for each of the calligrams I have planned out, as well as my 'base' 5 words I am aiming to complete.
+
 
