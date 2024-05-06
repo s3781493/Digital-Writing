@@ -308,7 +308,7 @@ I experimented using an online calligram generator: https://www.poem-generator.o
 
 ![leaf1gen](https://github.com/s3781493/digital-writing-folio/assets/162092719/2a3d6de9-7d99-422d-8d31-0958f1d3b6f0)
 
-My words mashed up with the 'stock' words of this tool made absolutely no sense and I realised trying to push myself into the boundaries of the letters would take meaning away from my piece, and that these poems were an opportunity for me to actually write my own poetry. I decided that I would write anecdotal poetry, pertaining to memories that resurfaced or experiences had whilst I was on the bike rides, and write generatively from those ideas. I also thought it was a digital mirror to what I had been physically doing on Strava - the deliberate placement letters and words to trace out lines, which felt cohesive and fitting for the piece. 
+My words mashed up with the 'stock' words of this tool made absolutely no sense and I realised trying to push myself into the boundaries of the letters (both shape and sound) would take meaning away from my piece, and that these calligrams were an opportunity for me to actually write my own poetry/prose. I decided that I would write anecdotally, on memories that resurfaced or experiences had whilst I was on the bike rides, and write generatively from those base ideas. I also think that the calligrams hold up a digital mirror to what I have been physically doing on Strava - the deliberate placement letters and words to trace out lines, which feels conceptually cohesive.
 
 I did some research on the best programs for creating calligrams from scratch and found a good tutorial on how to do it on Adobe Illustrator.
 
