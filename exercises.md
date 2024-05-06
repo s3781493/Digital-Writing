@@ -617,7 +617,7 @@ First successful attempt at scaling my title page image (before image mapping) u
 
 ## Twine Pathway Progress
 
-The image mapping does not create those visual arrow pathways between passages, and although there is a way to create these just for you to see I don't feel it is necessary as my pathways are relatively simple.
+The image mapping does not create those visual arrow pathways between passages, which is fine for my piece as it is less narrative-pathway focused, so I don't require the visual aid.
 
 <img width="1355" alt="Screen Shot 2024-05-06 at 4 00 31 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/537a9895-4f10-49f1-88dd-9dc52c11c5f1">
 
