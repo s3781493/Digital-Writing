@@ -468,7 +468,7 @@ Whilst the orchids are pretty, I think it's too obscure of a shape and would be 
 ![dragonfly](https://github.com/s3781493/digital-writing-folio/assets/162092719/44f9e31b-748b-46a0-ae57-ef774e027571)
 ![dandelion](https://github.com/s3781493/digital-writing-folio/assets/162092719/472939dc-6175-4540-8e38-b496c5a40f9f)
 
-I really like the idea of the dandelion seeds blowing away and those seeds containing small and sucinct phrases, however the dandelion contains too many fine lines to create a calligram and still have the font large enough to be readable. It's
+I really like the idea of the dandelion seeds blowing away and those seeds containing small and sucinct phrases, however the dandelion contains too many fine lines to create a calligram and still have the font large enough to be readable.
 
 **Y for Yarn or Yoga**
 
