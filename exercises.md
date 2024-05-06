@@ -492,9 +492,9 @@ L, U, N, G, B, O, D, Y, E
 
 Eucalyptus is too similar as I already have Leaf for L. The electrical wires are perfect to run prose along. 
 
-## Revised Working Project Checklist
+## Working Project Checklist (Revised)
 
-*I will update these lists as I write and ride over the next couple of weeks*
+*I will actively update these lists as I write and ride over the next couple of weeks*
 
 1.	**LUNG:**
 ~~Drawn route.~~
