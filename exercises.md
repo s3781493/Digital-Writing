@@ -494,6 +494,8 @@ Eucalyptus is too similar as I already have Leaf for L. The electrical wires are
 
 ## Revised Working Project Checklist
 
+*I will update these lists as I write and ride over the next couple of weeks*
+
 1.	**LUNG:**
 ~~Drawn route.~~
 ~~Ridden route.~~
@@ -606,6 +608,10 @@ when a hot cup of tea is the only source of comfort wrap elbows around knees
 ### Y:
 
 ### E:
+
+## Strava Project Updates
+
+![BODY](https://github.com/s3781493/digital-writing-folio/assets/162092719/165b9a48-866b-4272-a63f-9a69d48362f7)
 
 # Week 9
 
