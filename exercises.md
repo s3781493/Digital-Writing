@@ -609,7 +609,7 @@ when a hot cup of tea is the only source of comfort wrap elbows around knees
 
 # Week 9
 
-## Image Scaling 
+## Image Scaling on Twine
 
 First successful attempt at scaling my title page image:
 
@@ -621,10 +621,14 @@ img {  /* this selects all image (img) elements */
   width: 100%;
 }
 
-## Image Mapping
+## Image Mapping on Twine
 
 Using the online image mapper:
 
 <img width="1440" alt="Screen Shot 2024-05-06 at 1 47 05 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/6579616e-3b83-42e3-a188-ab956b3da0ae">
 
 As my title page will only be completed once I have ridden all the words that I intend to, this is effectively practice and I will have to start from scratch when I have my final image of the personal heatmap. 
+
+<img width="1440" alt="Screen Shot 2024-05-06 at 2 42 34 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/341a10c8-7ad3-4300-990b-57627644b1dc">
+
+
