@@ -611,15 +611,17 @@ when a hot cup of tea is the only source of comfort wrap elbows around knees
 
 ## Image Scaling on Twine
 
-First successful attempt at scaling my title page image:
+First successful attempt at scaling my title page image (before image mapping) using the provided CSS code:
 
 <img width="1440" alt="Screen Shot 2024-05-06 at 12 54 19 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/9f473771-bf63-4a9a-ae22-7c4bae2240a3">
 
-I used this CSS code in my story stylesheet:
+## Twine Pathway Progress
 
-img {  /* this selects all image (img) elements */
-  width: 100%;
-}
+The image mapping does not create those visual arrow pathways between passages, and although there is a way to create these just for you to see I don't feel it is necessary as my pathways are relatively simple.
+
+<img width="1355" alt="Screen Shot 2024-05-06 at 4 00 31 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/537a9895-4f10-49f1-88dd-9dc52c11c5f1">
+
+I have created passages for each of the calligrams I have planned out, as well as my 'base' 5 words I am aiming to complete.
 
 ## Image Mapping on Twine
 
@@ -631,7 +633,7 @@ As my title page will only be completed once I have ridden all the words that I 
 
 <img width="1440" alt="Screen Shot 2024-05-06 at 2 42 34 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/341a10c8-7ad3-4300-990b-57627644b1dc">
 
-Personal note: when editing the code from the image maps website, include ./images/ before the name of the image.
+Personal note: when editing the code from the image maps website, include ./images/ before the name of the image to link it.
 
 Success! Although my image is currently blown up, the title page looks like this:
 
@@ -657,14 +659,16 @@ And success again! You can click within the letter L of LUNG to be brought here:
 
 ## Image Scaling
 
-After adding the content of the image map resizer to Javascript, I was then able to update the stylesheet with the image 
+After adding the content of the image map resizer to Javascript, I was then able to update the stylesheet to successfully scale the image whilst keeping the image mapping on the right spots. 
 
-## Twine Pathway Progress
+<img width="1350" alt="Screen Shot 2024-05-06 at 4 33 32 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/9b7055cd-30b1-4cf5-b527-9ddf0a0c8dbe">
 
-The image mapping does not create those visual arrow pathways between passages, and although there is a way to create these just for you to see I don't feel it is necessary as my pathways are relatively simple.
+And now my title page looks like this (and is successfully image mapped):
 
-<img width="1355" alt="Screen Shot 2024-05-06 at 4 00 31 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/537a9895-4f10-49f1-88dd-9dc52c11c5f1">
+<img width="1440" alt="Screen Shot 2024-05-06 at 4 34 15 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/cff3728f-9919-4017-a53c-65e796086f8c">
 
-Here I have created passages for each of the calligrams I have planned out, as well as my 'base' 5 words I am aiming to complete.
+Lots of progress this week! I feel like these are the first real steps forward I have taken with Twine, and so many of my concerns that I wouldn't be able to learn image mapping or achieve the fundamental basics of coding have been eased. Now it feels like this project is really doable within my own skill set.
+
+
 
 
