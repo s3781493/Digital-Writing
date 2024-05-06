@@ -673,7 +673,11 @@ And now my title page looks like this (and is successfully image mapped):
 
 <img width="1440" alt="Screen Shot 2024-05-06 at 4 34 15 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/cff3728f-9919-4017-a53c-65e796086f8c">
 
-Lots of progress this week! I feel like these are the first real steps forward I have taken with Twine, and so many of my concerns that I wouldn't be able to learn image mapping or achieve the fundamental basics of coding have been eased. Now it feels like this project is really doable within my own skill set.
+Lots of progress this week! I feel like these are the first real steps forward I have taken with Twine, and so many of my concerns that I wouldn't be able to learn image mapping or achieve the fundamental basics of coding have been eased. Now I feel like the end goal of my project is achievable, and that I've gained a bit more of a skill set (and the relevant knowledge) to make it happen. The next challenge will be attempting to overlay the calligrams onto video content.
+
+## Strava Project Updates
+
+
 
 
 
