@@ -679,5 +679,10 @@ Lots of progress this week! I feel like these are the first real steps forward I
 
 In Week 7, I mentioned that I had found the embedded code of my Strava activities and that I wanted to see if I could image map on that. After having learnt to image map, I can see that it does need to be a JPEG or PNG file and that the embedded code wouldn't work.
 
+At this stage I would like to see if I can learn to overlay the calligrams onto videos (looping) but I made a mock up of the leaf overlayed onto a photograph:
+
+<img width="1440" alt="Screen Shot 2024-05-06 at 5 25 43 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/4d4804ae-6ada-466a-a8d4-318cfc702431">
+
+
 ## Strava Project Updates
 
