@@ -366,7 +366,7 @@ As I was already planning on using image mapping to link the letters to their po
 
 <img width="1233" alt="Screen Shot 2024-04-28 at 4 35 02 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/ed0aaf9e-c44c-4c80-a569-af792c5f92da">
 
-This is a screenshot of the embedded code from Strava, when it is viewed online you can actually click to follow my profile or view the activity on Strava. (I copied the embedded code into Twine, published it to the file and then screenshotted how it looked on Chrome after opening the index.html file). I'm not sure if you can image map over embedded code that already contains links to an external site, so if not I will use the general Strava screenshot:
+That is a screenshot of the embedded code from Strava. When it is viewed online you can actually click to follow my profile or view the activity on Strava. (I copied the embedded code into Twine, published it to the file and then screenshotted how it looked on Chrome after opening the index.html file). I'm not sure if you can image map over embedded code that already contains links to an external site, so if not I will use the general Strava screenshot:
 
 ![53207](https://github.com/s3781493/digital-writing-folio/assets/162092719/12556744-aaf1-42fc-8714-d17f900b316c)
 
@@ -675,10 +675,9 @@ And now my title page looks like this (and is successfully image mapped):
 
 Lots of progress this week! I feel like these are the first real steps forward I have taken with Twine, and so many of my concerns that I wouldn't be able to learn image mapping or achieve the fundamental basics of coding have been eased. Now I feel like the end goal of my project is achievable, and that I've gained a bit more of a skill set (and the relevant knowledge) to make it happen. The next challenge will be attempting to overlay the calligrams onto video content.
 
+### Adjustments
+
+In Week 7, I mentioned that I had found the embedded code of my Strava activities and that I wanted to see if I could image map on that. After having learnt to image map, I can see that it does need to be a JPEG or PNG file and that the embedded code wouldn't work.
+
 ## Strava Project Updates
-
-
-
-
-
 
