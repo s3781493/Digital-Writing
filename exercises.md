@@ -1,4 +1,4 @@
-# Week 1
+![image](https://github.com/s3781493/digital-writing-folio/assets/162092719/3f59b9dd-996a-4428-893f-d93f114b8fcd)# Week 1
 
 ## Questions re: Your Writing
 
@@ -500,7 +500,7 @@ Eucalyptus is too similar as I already have Leaf for L. The electrical wires are
 
 2.	**BODY:**
 ~~Drawn route.~~
-Ridden route.
+~~Ridden route.~~
 
 3.	**BEND:**
 Drawn route.
@@ -554,7 +554,7 @@ Arranged calligram.
 
 ## Calligram Prose Poetry
 
-### L (thinking about teenagehood during winter in Yarraville)
+### L (on teenagehood during winter, in Yarraville)
 
 i remember smoking cigarettes in the pop-up park as green becomes orange, digging out fingerless gloves from the bottom drawer. 
 
@@ -562,33 +562,34 @@ the way wind nips down the funnel neck of unrenovated train stations is how beer
 
 watching old barbie movies with the heater on blast is what home feels like when chilblains creep under leather lace-ups. 
 
-wear gloves inside the car to save fuel because it all adds up. 
-
-my mum drove me down this street so many times but this is my first time really being here. 
-
-childhood fades as sure as the mist that hangs onto my windows.
+wear gloves inside the car to save fuel because it all adds up. my mum drove me down this street so many times but this is my first time really being here. childhood fades as sure as the mist that hangs onto my windows.
 
 kitchen tiles prick the toes. 
 
 mushrooms spring up on the nature strip in a circle, a ring for fairies to dance in. 
-
 fingers interlock.
-
 i wish i could eat them. 
 
 laddered tights remind the bank account to brace itself.
 
 when the train tracks freeze over in the morning it feels like the clock wound back in time.
-
 i look bare next to the evergreens.
 
-breathe steam in my ear on a park bench while I wedge my fingers under my thighs.
+step out onto icy gravel and my bike’s been stolen, what goes around comes around.
+
+breathe steam in my ear on a park bench while I wedge my fingers under my thighs
 
 goosebumps calling out your name.
 
-hold onto yellow straps until dry skin splits into a fortune, swaying back and forth like a eucalyptus sprig, council strapped her up real good.
+hold onto yellow straps until dry skin splits into a fortune, swaying back and forth like a eucalyptus sprig, council strapped her up real good. 
 
-wear fingerless gloves next time.
+your mind is choking me like there’s no room to think.
+
+cure my loose lips
+
+strong feet crack soles
+
+when a hot cup of tea is the only source of comfort wrap elbows around knees
 
 ### U:
 
@@ -605,3 +606,6 @@ wear fingerless gloves next time.
 ### Y:
 
 ### E:
+
+# Week 9
+
