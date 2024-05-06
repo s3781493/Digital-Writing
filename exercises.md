@@ -514,7 +514,7 @@ Ridden route.
 ~~Drawn route.~~
 Ridden route.
 
-BRAINSTORM OF MORE POTENTIAL WORDS: BONE, YOUNG, BLUE, GLUE, GONE, DUEL, LOUD, LONE
+**BRAINSTORM OF MORE POTENTIAL WORDS: BONE, YOUNG, BLUE, GLUE, GONE, DUEL, LOUD, LONE**
 
 1. **L:**
 ~~Written prose.~~
@@ -554,7 +554,7 @@ Arranged calligram.
 
 ## Calligram Prose Poetry
 
-### L (on teenagehood during winter, in Yarraville)
+### L: (thinking about teenagehood during winter, in Yarraville)
 
 i remember smoking cigarettes in the pop-up park as green becomes orange, digging out fingerless gloves from the bottom drawer. 
 
