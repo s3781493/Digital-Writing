@@ -1,4 +1,4 @@
-![image](https://github.com/s3781493/digital-writing-folio/assets/162092719/a1eef727-da02-4d72-91c4-478571bb5b56)![image](https://github.com/s3781493/digital-writing-folio/assets/162092719/d9148a82-aa16-4731-b9fe-ebf14734a126)# Week 1
+# Week 1
 
 ## Questions re: Your Writing
 
