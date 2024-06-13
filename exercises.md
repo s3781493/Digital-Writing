@@ -1,4 +1,4 @@
-![image](https://github.com/s3781493/digital-writing-folio/assets/162092719/1185264b-174b-446c-b0c4-699d4d896f07)![image](https://github.com/s3781493/digital-writing-folio/assets/162092719/a6642f21-c791-41e1-a98a-def7802e61de)![image](https://github.com/s3781493/digital-writing-folio/assets/162092719/a6d31b9c-2d04-48e9-a8e8-d945ac6fa883)# Week 1
+![image](https://github.com/s3781493/digital-writing-folio/assets/162092719/a1eef727-da02-4d72-91c4-478571bb5b56)![image](https://github.com/s3781493/digital-writing-folio/assets/162092719/d9148a82-aa16-4731-b9fe-ebf14734a126)# Week 1
 
 ## Questions re: Your Writing
 
@@ -18,10 +18,26 @@ I use them to pursue engagement, to feel interested in what I am thinking, writi
 
 These (conceptual) tools allow me to combine structure with enjoyment. Writing can be isolating, it is traditionally a solo undertaking.  Incorporating engagement with the outer world into my practice allows me to facilitate connectivity between myself and others. 
 
+6. What do you think digital writing is?
+
+I think digital writing exists somewhere at the intersection of technology and literature, perhaps needing some kind of interactive or user-engaging element to differentiate it from reading other types of writing online. 
+
+7. What do you expect from the digital writing lab?
+
+I expect to develop a better understanding of how to define electronic literature, and what kinds of works will be appropriate and achieveable for us to develop (since I have no idea how to code or do anything slightly complicated on a computer). 
+
+### Artist Bio Note
+
+I am an experimental essayer and poet, that uses the natural impact of external influence to write generatively and respond to the world in a way that challenges the boundaries of the working human mind. I combine structure with enjoyment, and incorporating engagement with the outer world into my practice allows me to facilitate connectivity between myself and others.
+
 ## Electronic Literature Collection 
+
 ### - Responding to one work from each volume: 1. What makes it a piece of digital literature? and 2. A personal response (whether you liked it, how it made you feel etc)
 
-## Bio Note
+1. Chemical Landscapes Digital Tales
+2. 2
+3. 3
+4. 4
 
 # Week 3
 
@@ -601,6 +617,8 @@ keys jangling, you haven’t touched on your myki. a magpie singing above your h
 
 ### N:
 
+there was an acorn tree in the playground of my primary school. it was no hat no play and I always forgot my hat. it was my favourite time of the year when the acorns began to ripen and fall off the tree, because then I could collect them all and stuff them away in the trunk of the tree. I didn’t really have friends in school, but the acorns made do.![image](https://github.com/s3781493/digital-writing-folio/assets/162092719/3b1a215f-6f80-4644-afee-f8c03fbd0dfc)
+
 ### G:
 
 feel out the world through your tongue
@@ -661,14 +679,19 @@ for the first time
 
 in the space between shoes and pedals is where the movement happens. movement can only happen in that space, in the connective tissue between two things. The pedals make the riding happen for the bike, they make the chain turn and the chain makes the wheels go faster than the beat of your feet racing around to the steady, thumping pace of music. That’s why it’s a cycle, cycling, running around itself, coming back to the beginning, and searching for the end is. Waiting for the beat to hit the final round. Keep going because the word ends. That’s the beauty of the bike, it never ends. The suspense lies in between the soles of your shoes and the next time they connect with the pedals. They wait patiently. It’s a good name, it’s the kind of name I wish I thought of myself. ![image](https://github.com/s3781493/digital-writing-folio/assets/162092719/f9615579-8462-4501-b5fc-7bdfb1c4e33d)
 
-
 ### O:
+
+blood runs thicker than glass in a church when it’s a 30 metre drop from the bell tower. rapunzel’s hair trailing down the ancient bluestone wouldn’t have stood a chance against the fossil fuel giants, a giant burning footstep that licks flames to and from the garden, stained shards litter the floor and it’s an honest godsend that they do.
+
 
 ### D:
 
 I want to clutch the moment between the thoughts and feelings and find the words, but it’s like trying to catch a fairy dancing around the circle of mushrooms that sprung up in your garden overnight. Once I caught a blowfly and I felt it quivering in between the creases of my palm, searching for a path towards the light with its thousand eyes, and that’s when I knew everything was real. That satellite dish makes me sick like there’s hierarchy, a circle of life, like we didn’t make that up. like we don’t tread heavily, heels dig everywhere we go. 
 
 ### Y:
+
+practicing weaving needles is practicing making shapes, around and around rubbing up against each other and sometimes their lips touch, only for a moment, a brush with time. like the fly who rubs her small hands together, creating enough power to charge a fly-sized generator, and I wonder if they set it up in a park somewhere and play music out of their fly-sized speakers, dancing, holding hands, bumping into each other.
+
 
 ### E:
 
