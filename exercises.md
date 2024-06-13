@@ -34,10 +34,22 @@ I am an experimental essayer and poet, that uses the natural impact of external 
 
 ### - Responding to one work from each volume: 1. What makes it a piece of digital literature? and 2. A personal response (whether you liked it, how it made you feel etc)
 
-1. Chemical Landscapes Digital Tales
-2. 2
-3. 3
-4. 4
+1. Chemical Landscapes Digital Tales, Volume 1
+
+This piece is digital literature because it asks us to create meaning out of hypertext, piecing scenes together. As the work sets its own pace, it removes our agency when we interact with it. I think this is to create a non-linear narrative. We are also not allowed enough time to read each tale in full, so we are asked to accept the movement, and fluidity, and become a part of that cycle ourselves. I thought this piece made for a unique reading experience, as each person will resonate with certain words and sentences differently, therefore drawing different connections between the scenes. 
+
+2. Letter to Linus
+
+This work of prose fiction is heavily undertoned with politics and creative reflection, using a hypercube to explore different pages. You are able to click through squares depending on how you want the sentence to continue. In this way it is 'choose your own adventure' esque whilst still retaining the conventions of narrative. However, I would not describe it as a linear work due to the interactivity. I liked it, but it did feel disjointed at times.
+
+3. With Those We Love Alive, Volume 3
+
+This piece asks us to identify ourselves within it, making choices and selections that create a personal relation to the progression of the story. Even if these choices don't ultimately impact the outcome of the narrative, you cannot progress without making a selection. I didn't mind this piece but found it a bit too fantastical and hard to follow due to the limited descriptions when establishing world building. I was interested by the description and wanted to draw the sigil however I didn't mind myself very engaged, so I gave up on it.
+
+4. Letters to X, Volume 4
+
+This was a poignant and relatable piece that I enjoyed reading. Again, the reader is given agency when interacting with the work, deciding the pace and messiness of the pages. Key words are left out of the letters, leaving you to fill in the gaps, which allows you to create your own meaning. It was very revealing of my subconscious thoughts and assumptions about myself. I have noticed that I tend to gravitate towards the text-based works rather than the animated ones, as they feel like less of a time committment. I am reluctant to engage with a work that requires me dedicating an unknown amount of time to work through it. 
+
 
 # Week 3
 
@@ -543,8 +555,8 @@ Ridden route.
 ~~Arranged calligram.~~
 
 3. **N:**
-Written prose.
-Arranged calligram.
+~~Written prose.~~
+~~Arranged calligram.~~
 
 4. **G:**
 ~~Written prose.~~
@@ -555,16 +567,16 @@ Arranged calligram.
 ~~Arranged calligram.~~
 
 6. **O:**
-Written prose.
-Arranged calligram.
+~~Written prose.~~
+~~Arranged calligram.~~
 
 7. **D:**
 ~~Written prose.~~
 ~~Arranged calligram.~~
 
 8. **Y:**
-Written prose.
-Arranged calligram.
+~~Written prose.~~
+~~Arranged calligram.~~
 
 9. **E:**
 ~~Written prose.~~
@@ -802,6 +814,10 @@ At this stage I would like to see if I can learn to overlay the calligrams onto 
 Although it would be possible for me to overlay text onto a looping video, I have realised it won't be feasible as I can't image map over a moving video - so I will stick to using images. I have some film photos from a road trip that I think will suit the 'outdoors' theme of the project. 
 
 I also decided to reduce the opacity of the images I am using to overlay the calligrams onto, to increase their readability. The only issue I have encountered is that the page needs to be refreshed after completing a full ‘cycle’ of the work – when you return to the ‘title page’ none of the image map links work without a refresh, however I have not been able to find a workaround for this on twine. 
+
+# Week 10
+
+Although I did attempt to create a website as per the instructions online, I was unable to attend the tutorial and could not understand the instructions on the Week 10 exercises page in GitHub. After fumbling around with it for a while, I abandoned it and deleted the file as I was feeling incompetent. 
 
 ## Strava Project Reflections
 
