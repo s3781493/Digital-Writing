@@ -38,7 +38,7 @@ I am an experimental essayer and poet, that uses the natural impact of external 
 
 This piece is digital literature because it asks us to create meaning out of hypertext, piecing scenes together. As the work sets its own pace, it removes our agency when we interact with it. I think this is to create a non-linear narrative. We are also not allowed enough time to read each tale in full, so we are asked to accept the movement, and fluidity, and become a part of that cycle ourselves. I thought this piece made for a unique reading experience, as each person will resonate with certain words and sentences differently, therefore drawing different connections between the scenes. 
 
-2. Letter to Linus
+2. Letter to Linus, Volume 2
 
 This work of prose fiction is heavily undertoned with politics and creative reflection, using a hypercube to explore different pages. You are able to click through squares depending on how you want the sentence to continue. In this way it is 'choose your own adventure' esque whilst still retaining the conventions of narrative. However, I would not describe it as a linear work due to the interactivity. I liked it, but it did feel disjointed at times.
 
