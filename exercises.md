@@ -1,4 +1,4 @@
-# Week 1
+![image](https://github.com/s3781493/digital-writing-folio/assets/162092719/1185264b-174b-446c-b0c4-699d4d896f07)![image](https://github.com/s3781493/digital-writing-folio/assets/162092719/a6642f21-c791-41e1-a98a-def7802e61de)![image](https://github.com/s3781493/digital-writing-folio/assets/162092719/a6d31b9c-2d04-48e9-a8e8-d945ac6fa883)# Week 1
 
 ## Questions re: Your Writing
 
@@ -475,7 +475,7 @@ I really like the idea of the dandelion seeds blowing away and those seeds conta
 ![yarn](https://github.com/s3781493/digital-writing-folio/assets/162092719/751161c3-d9f3-482f-93fd-b3dccdf84a2a)
 ![yoga](https://github.com/s3781493/digital-writing-folio/assets/162092719/36c7551f-3c70-47dc-b450-a909835176ed)
 
-Y is a really tricky letter and I couldn't come up with much for it that was relevant. I guess yoga is a better fit thematically, so I'll go with that, although I'm not a big fan of either.
+Y is a really tricky letter and I couldn't come up with much for it that was relevant. I don't either truly suit the piece thematically, but I prefer the yarn to the yoga pose. 
 
 The challenges in selecting images for calligrams are making sure the outline of a shape is strong enough for a viewer to identify what it actually is, but also that the lines aren't too intricate or detailed - otherwise the font will be too small to read. 
 
@@ -505,58 +505,58 @@ Eucalyptus is too similar as I already have Leaf for L. The electrical wires are
 ~~Ridden route.~~
 
 3.	**BEND:**
-Drawn route.
+~~Drawn route.~~
 Ridden route.
 
-4.	**UNDO:**
-Drawn route.
-Ridden route.
+4.	**GONE:**
+~~Drawn route.~~
+~~Ridden route.~~
 
 5.	**BLEED:**
 ~~Drawn route.~~
 Ridden route.
 
-**BRAINSTORM OF MORE POTENTIAL WORDS: BONE, YOUNG, BLUE, GLUE, GONE, DUEL, LOUD, LONE**
+**BRAINSTORM OF MORE POTENTIAL WORDS: BONE, YOUNG, BLUE, GLUE, UNDO, DUEL, LOUD, LONE**
 
 1. **L:**
 ~~Written prose.~~
-Arranged calligram.
+~~Arranged calligram.~~
 
 2. **U:**
-Written prose.
-Arranged calligram.
+~~Written prose.~~
+~~Arranged calligram.~~
 
 3. **N:**
 Written prose.
 Arranged calligram.
 
 4. **G:**
-Written prose.
-Arranged calligram.
+~~Written prose.~~
+~~Arranged calligram.~~
 
 5. **B:**
-Written prose.
-Arranged calligram.
+~~Written prose.~~
+~~Arranged calligram.~~
 
 6. **O:**
 Written prose.
 Arranged calligram.
 
 7. **D:**
-Written prose.
-Arranged calligram.
+~~Written prose.~~
+~~Arranged calligram.~~
 
 8. **Y:**
 Written prose.
 Arranged calligram.
 
 9. **E:**
-Written prose.
-Arranged calligram.
+~~Written prose.~~
+~~Arranged calligram.~~
 
 ## Calligram Prose Poetry
 
-### L: (thinking about teenagehood during winter, in Yarraville)
+### L:
 
 i remember smoking cigarettes in the pop-up park as green becomes orange, digging out fingerless gloves from the bottom drawer. 
 
@@ -575,6 +575,7 @@ i wish i could eat them.
 laddered tights remind the bank account to brace itself.
 
 when the train tracks freeze over in the morning it feels like the clock wound back in time.
+
 i look bare next to the evergreens.
 
 step out onto icy gravel and my bike’s been stolen, what goes around comes around.
@@ -595,19 +596,109 @@ when a hot cup of tea is the only source of comfort wrap elbows around knees
 
 ### U:
 
+this is a list of the most powerful sounds. high heels clacking on the pavement behind you.
+keys jangling, you haven’t touched on your myki. a magpie singing above your head in september. waves crashing onto a manmade shoreline. a ding in a restaurant’s kitchen. a speaker when it’s on low battery. church bells calling through a regional village at 6am. calling you to wake up to the world. calling your body into action. hearing your voice.
+
 ### N:
 
 ### G:
 
+feel out the world through your tongue
+
+like a snake
+
+tracing a pattern down its scales
+
+side to side
+
+body to body
+
+listen to what the rhythm tells you 
+
+it whispers like
+
+it’s telling you a story of dirt under fingernails 
+
+peeling skin
+
+broken bones
+
+splinters in between toes and
+
+what it’s like to reach down inside of yourself
+
+tearing your oesophagus open knuckles first
+
+unfurl fingers and grab onto your heart and squeeze
+
+feel it throb how a heart does
+
+do you feel it
+
+do you like it
+
+the bulge of your fist moving further down
+
+its rippling beneath your ribcage 
+
+you’re not allowed to breath in
+
+stay still
+
+or your lungs will inflate and fill up your neck
+
+ribbit ribbit 
+
+just like that
+
+I’d ride that hot air balloon and feel the grooves in your teeth
+
+and maybe we’d remember what it’s like to breathe
+
+for the first time
+
 ### B:
+
+in the space between shoes and pedals is where the movement happens. movement can only happen in that space, in the connective tissue between two things. The pedals make the riding happen for the bike, they make the chain turn and the chain makes the wheels go faster than the beat of your feet racing around to the steady, thumping pace of music. That’s why it’s a cycle, cycling, running around itself, coming back to the beginning, and searching for the end is. Waiting for the beat to hit the final round. Keep going because the word ends. That’s the beauty of the bike, it never ends. The suspense lies in between the soles of your shoes and the next time they connect with the pedals. They wait patiently. It’s a good name, it’s the kind of name I wish I thought of myself. ![image](https://github.com/s3781493/digital-writing-folio/assets/162092719/f9615579-8462-4501-b5fc-7bdfb1c4e33d)
+
 
 ### O:
 
 ### D:
 
+I want to clutch the moment between the thoughts and feelings and find the words, but it’s like trying to catch a fairy dancing around the circle of mushrooms that sprung up in your garden overnight. Once I caught a blowfly and I felt it quivering in between the creases of my palm, searching for a path towards the light with its thousand eyes, and that’s when I knew everything was real. That satellite dish makes me sick like there’s hierarchy, a circle of life, like we didn’t make that up. like we don’t tread heavily, heels dig everywhere we go. 
+
 ### Y:
 
 ### E:
+
+an older woman approached me. 
+
+I saw her face peering in through my curls, her eyes poking out of sunken sockets. 
+
+loose skin hung from her arms. 
+
+I could see right through to the marrow. 
+
+her whole body was vibrating, hands shaking, in silence. 
+
+she told me I should stop smoking that cigarette. 
+
+inhale and exhale. 
+
+I felt it. eating away at me. feasting on nicotine. 
+
+growing inside of my stomach. an unwelcome ovular guest.
+
+the receptionist showed me to the door. fluorescent lights framed my frizzy hair, unkempt from the wind. I swung it open. 
+
+there I was laid on the bed. I saw the nurse hunched over me, translucent on the sheets. 
+
+she turned to face me, her sunken eyes and loose skin now taught and full of life. her bones felt strong. her mouth dripped from chin to cleavage with red juice. 
+
+push up bra a dream catcher.
+
+I was sliced open, layers of skin, sinew and tissue ripped apart to reveal the insides of my stomach. apples, pomegranates, and tomatoes spilled out, littering the floor around me. I threw up. I bit in. 
 
 ## Strava Project Updates
 
@@ -683,6 +774,26 @@ At this stage I would like to see if I can learn to overlay the calligrams onto 
 
 <img width="1440" alt="Screen Shot 2024-05-06 at 5 25 43 pm" src="https://github.com/s3781493/digital-writing-folio/assets/162092719/4d4804ae-6ada-466a-a8d4-318cfc702431">
 
-
 ## Strava Project Updates
 
+Although it would be possible for me to overlay text onto a looping video, I have realised it won't be feasible as I can't image map over a moving video - so I will stick to using images. I have some film photos from a road trip that I think will suit the 'outdoors' theme of the project. 
+
+I also decided to reduce the opacity of the images I am using to overlay the calligrams onto, to increase their readability. The only issue I have encountered is that the page needs to be refreshed after completing a full ‘cycle’ of the work – when you return to the ‘title page’ none of the image map links work without a refresh, however I have not been able to find a workaround for this on twine. 
+
+## Strava Project Reflections
+
+### Personal
+
+For the most part, the final work has been consistent with the goals I set in my Case Proposal. The cyclical movement of the piece mirrors the wheels of the bike turning, engaging the participant through interactivity and exploration, and I believe it this thematic consistency has added layers of depth and meaning to the project. 
+
+The participant is given agency within the work, but it is limited – they can pace themselves but are limited to set pathways which must be completed to return to the title page. To fully engage with the work, they must continue through the piece to find that different letters link to different calligrams. This is a primary concern I have for the work – that the participant will click through each word and think that the calligrams are word-specific, not letter-specific. However, I don’t want to spoon feed my audience and take away that element of discovery.
+
+My original aim to produce more words on Strava was an overcommitment - on top of my laptop breaking which I was unable to get fixed for a couple of weeks, I felt the impending time pressure and was unable to live up to the expectations I had set for myself. I also happened to have a flare up of my chronic hand-dermatitis which prevented me from riding as much as I had planned to, which has been disappointing. I will continue to ride out the routes that I had pre-planned once my hands are in a better working condition. 
+
+The content of my prose poetry discusses the relation between the physical body and the outer world, exploring the way we perceive space, temporality, and the limits of the human existence through experimentation with tense, abstraction and the unknown. I chose to write prose poetry so that the piece is not constrained by the linearity of narrative structure, and so that each ‘cycle’ feels complete. The calligrams challenge the participant to consider their own relation to their body, and the way their body moves in the world. They can be read in many ways due to their non-linearity, and so the participant is also asked to create some of their own meaning within the words. This is itself a deconstruction of linearity – the reader decides where the writing starts and ends. As works of electronic literature are also inherently non-linear and embracing of post-structuralist methods of knowledge creation, the calligrams fundamentally work for the piece, in combination with the imagery that acts as visual stimuli. 
+
+My practice has greatly developed through this applying of non-linearity within my writing, as it has challenged me to consider the subconscious rules I adhere to when I write. Knowing that the words can be read in any order, any which way, produced writing that exists within its own thematic bubble, rather than between the first capital and the last full stop. Reflecting on what I wrote during Week 1 exercise Questions: re Your Writing I had stated that “Incorporating engagement with the outer world into my practice allows me to facilitate connectivity between myself and others.” I believe this project has lived up to that belief, expanded upon it, and used the experiential as a benchmark for challenging traditional narrative structures and the way words move between the inner and outer perspectives. 
+
+### On Community of Practice
+
+My peers did express concerns to me about the length of the work and time required to actually plan the routes, ride them, code them, write for the calligrams, arrange the calligrams, and code the calligrams into twine as well. This was definitely a valid concern, and as I mentioned in ny personal reflection on the developmet of my work I was unable to fulfill my goal of having five words, which was already a step below my original goal of having 8 or 9. 
